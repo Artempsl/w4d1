@@ -1,0 +1,1492 @@
+2026-02-23 19:33:41,769 - INFO - NormalObjects LangGraph System - Initialization
+2026-02-23 19:33:41,769 - INFO - ============================================================
+2026-02-23 19:34:41,454 - INFO - NormalObjects LangGraph System - Initialization
+2026-02-23 19:34:41,454 - INFO - ============================================================
+2026-02-23 19:34:41,457 - INFO - Duplicate detected! Links to complaint test-001 from 0 days ago
+2026-02-23 19:37:27,534 - INFO - NormalObjects LangGraph System - Initialization
+2026-02-23 19:37:27,534 - INFO - ============================================================
+2026-02-23 19:37:27,535 - INFO - Duplicate detected! Links to complaint test-001 from 0 days ago
+2026-02-23 19:37:27,535 - INFO - [INTAKE] Processing complaint ef4fae15
+2026-02-23 19:37:27,536 - INFO - [INTAKE] Text: Portal opens at different times each day...
+2026-02-23 19:37:27,536 - INFO - [INTAKE] ✓ Categorized as: portal
+2026-02-23 19:37:27,536 - INFO - [INTAKE] Processing complaint 7ba4be71
+2026-02-23 19:37:27,536 - INFO - [INTAKE] Text: Demogorgons sometimes work together...
+2026-02-23 19:37:27,536 - INFO - [INTAKE] ✓ Categorized as: monster
+2026-02-23 19:37:27,536 - INFO - [INTAKE] Processing complaint 503610f9
+2026-02-23 19:37:27,536 - INFO - [INTAKE] Text: El can move things with her mind but can't lift rocks...
+2026-02-23 19:37:27,536 - INFO - [INTAKE] ✓ Categorized as: psychic
+2026-02-23 19:37:27,537 - INFO - [INTAKE] Processing complaint b945e1b8
+2026-02-23 19:37:27,537 - INFO - [INTAKE] Text: Power lines react strangely with creatures...
+2026-02-23 19:37:27,537 - INFO - [INTAKE] ✓ Categorized as: psychic
+2026-02-23 19:37:58,118 - INFO - NormalObjects LangGraph System - Initialization
+2026-02-23 19:37:58,118 - INFO - ============================================================
+2026-02-23 19:37:58,119 - INFO - Duplicate detected! Links to complaint test-001 from 0 days ago
+2026-02-23 19:37:58,119 - INFO - [INTAKE] Processing complaint 49b036e6
+2026-02-23 19:37:58,119 - INFO - [INTAKE] Text: Portal opens at different times each day...
+2026-02-23 19:37:58,120 - INFO - [INTAKE] ✓ Categorized as: portal
+2026-02-23 19:37:58,120 - INFO - [INTAKE] Processing complaint dfabd41e
+2026-02-23 19:37:58,120 - INFO - [INTAKE] Text: Demogorgons sometimes work together...
+2026-02-23 19:37:58,120 - INFO - [INTAKE] ✓ Categorized as: monster
+2026-02-23 19:37:58,120 - INFO - [INTAKE] Processing complaint b36d73a1
+2026-02-23 19:37:58,120 - INFO - [INTAKE] Text: El can move things with her mind but can't lift rocks...
+2026-02-23 19:37:58,120 - INFO - [INTAKE] ✓ Categorized as: psychic
+2026-02-23 19:37:58,120 - INFO - [INTAKE] Processing complaint 9dbb73f2
+2026-02-23 19:37:58,120 - INFO - [INTAKE] Text: Power lines react strangely with creatures...
+2026-02-23 19:37:58,121 - INFO - [INTAKE] ✓ Categorized as: environmental
+2026-02-23 19:37:58,121 - INFO - [INTAKE] Processing complaint 52cf40b3
+2026-02-23 19:37:58,121 - INFO - [INTAKE] Text: This is a random complaint about nothing specific...
+2026-02-23 19:37:58,121 - INFO - [INTAKE] ✓ Categorized as: other
+2026-02-23 19:37:58,121 - INFO - [INTAKE] Processing complaint 0c7e2959
+2026-02-23 19:37:58,121 - INFO - [INTAKE] Text: Portal opens at random times in Hawkins Lab...
+2026-02-23 19:37:58,121 - INFO - [INTAKE] ✓ Categorized as: portal
+2026-02-23 19:37:58,121 - INFO - [INTAKE] Processing complaint 4db6822c
+2026-02-23 19:37:58,121 - INFO - [INTAKE] Text: Portal opens at random times in Hawkins Lab...
+2026-02-23 19:37:58,121 - INFO - Duplicate detected! Links to complaint 0c7e2959 from 0 days ago
+2026-02-23 19:37:58,122 - INFO - [INTAKE] ⚠️  Duplicate detected - linked to 0c7e2959
+2026-02-23 19:37:58,122 - INFO - [INTAKE] ✓ Categorized as: portal
+2026-02-23 19:39:51,020 - INFO - NormalObjects LangGraph System - Initialization
+2026-02-23 19:39:51,020 - INFO - ============================================================
+2026-02-23 19:39:51,021 - INFO - Duplicate detected! Links to complaint test-001 from 0 days ago
+2026-02-23 19:39:51,022 - INFO - [INTAKE] Processing complaint 207ad309
+2026-02-23 19:39:51,022 - INFO - [INTAKE] Text: Portal opens at different times each day...
+2026-02-23 19:39:51,022 - INFO - [INTAKE] ✓ Categorized as: portal
+2026-02-23 19:39:51,022 - INFO - [INTAKE] Processing complaint 2bdb5c71
+2026-02-23 19:39:51,022 - INFO - [INTAKE] Text: Demogorgons sometimes work together...
+2026-02-23 19:39:51,022 - INFO - [INTAKE] ✓ Categorized as: monster
+2026-02-23 19:39:51,022 - INFO - [INTAKE] Processing complaint 155e9566
+2026-02-23 19:39:51,022 - INFO - [INTAKE] Text: El can move things with her mind but can't lift rocks...
+2026-02-23 19:39:51,023 - INFO - [INTAKE] ✓ Categorized as: psychic
+2026-02-23 19:39:51,023 - INFO - [INTAKE] Processing complaint 1b23b6a8
+2026-02-23 19:39:51,023 - INFO - [INTAKE] Text: Power lines react strangely with creatures...
+2026-02-23 19:39:51,023 - INFO - [INTAKE] ✓ Categorized as: environmental
+2026-02-23 19:39:51,023 - INFO - [INTAKE] Processing complaint b9806975
+2026-02-23 19:39:51,023 - INFO - [INTAKE] Text: This is a random complaint about nothing specific...
+2026-02-23 19:39:51,023 - INFO - [INTAKE] ✓ Categorized as: other
+2026-02-23 19:39:51,023 - INFO - [INTAKE] Processing complaint cc7af7f8
+2026-02-23 19:39:51,023 - INFO - [INTAKE] Text: Portal opens at random times in Hawkins Lab...
+2026-02-23 19:39:51,024 - INFO - [INTAKE] ✓ Categorized as: portal
+2026-02-23 19:39:51,024 - INFO - [INTAKE] Processing complaint 3ac7ccb6
+2026-02-23 19:39:51,024 - INFO - [INTAKE] Text: Portal opens at random times in Hawkins Lab...
+2026-02-23 19:39:51,024 - INFO - Duplicate detected! Links to complaint cc7af7f8 from 0 days ago
+2026-02-23 19:39:51,024 - INFO - [INTAKE] ⚠️  Duplicate detected - linked to cc7af7f8
+2026-02-23 19:39:51,024 - INFO - [INTAKE] ✓ Categorized as: portal
+2026-02-23 19:39:51,024 - INFO - [INTAKE] Processing complaint f2dcfb3a
+2026-02-23 19:39:51,025 - INFO - [INTAKE] Text: Portal opens at different times each day in Hawkins Lab...
+2026-02-23 19:39:51,025 - INFO - [INTAKE] ✓ Categorized as: portal
+2026-02-23 19:39:51,025 - INFO - [VALIDATE] Validating portal complaint f2dcfb3a
+2026-02-23 19:39:51,025 - INFO - [VALIDATE] ✓ Validation passed: Valid portal complaint with location reference and timing reference
+2026-02-23 19:39:51,025 - INFO - [INTAKE] Processing complaint 98801361
+2026-02-23 19:39:51,025 - INFO - [INTAKE] Text: Demogorgons sometimes work together and sometimes fight...
+2026-02-23 19:39:51,025 - INFO - [INTAKE] ✓ Categorized as: monster
+2026-02-23 19:39:51,025 - INFO - [VALIDATE] Validating monster complaint 98801361
+2026-02-23 19:39:51,025 - INFO - [VALIDATE] ✓ Validation passed: Valid monster complaint with behavioral description
+2026-02-23 19:39:51,026 - INFO - [INTAKE] Processing complaint a43e02cb
+2026-02-23 19:39:51,026 - INFO - [INTAKE] Text: El can move things with her mind but can't lift heavy rocks...
+2026-02-23 19:39:51,026 - INFO - [INTAKE] ✓ Categorized as: psychic
+2026-02-23 19:39:51,026 - INFO - [VALIDATE] Validating psychic complaint a43e02cb
+2026-02-23 19:39:51,026 - INFO - [VALIDATE] ✓ Validation passed: Valid psychic complaint with ability and limitation reference
+2026-02-23 19:39:51,026 - INFO - [INTAKE] Processing complaint 50cbdf66
+2026-02-23 19:39:51,026 - INFO - [INTAKE] Text: Power lines flicker when creatures are nearby...
+2026-02-23 19:39:51,027 - INFO - [INTAKE] ✓ Categorized as: environmental
+2026-02-23 19:39:51,027 - INFO - [VALIDATE] Validating environmental complaint 50cbdf66
+2026-02-23 19:39:51,027 - INFO - [VALIDATE] ✓ Validation passed: Valid environmental complaint with electrical, physical phenomenon reference
+2026-02-23 19:39:51,028 - INFO - [INTAKE] Processing complaint d75ecb5f
+2026-02-23 19:39:51,028 - INFO - [INTAKE] Text: There's a portal...
+2026-02-23 19:39:51,028 - INFO - [INTAKE] ✓ Categorized as: portal
+2026-02-23 19:39:51,028 - INFO - [VALIDATE] Validating portal complaint d75ecb5f
+2026-02-23 19:39:51,028 - WARNING - [VALIDATE] ✗ Validation failed: Portal complaint lacks specific location or timing information
+2026-02-23 19:39:51,029 - INFO - [INTAKE] Processing complaint cf7422ff
+2026-02-23 19:39:51,029 - INFO - [INTAKE] Text: I saw a monster...
+2026-02-23 19:39:51,029 - INFO - [INTAKE] ✓ Categorized as: monster
+2026-02-23 19:39:51,029 - INFO - [VALIDATE] Validating monster complaint cf7422ff
+2026-02-23 19:39:51,029 - WARNING - [VALIDATE] ✗ Validation failed: Monster complaint lacks creature behavior or interaction description
+2026-02-23 19:39:51,030 - INFO - [INTAKE] Processing complaint 16319e34
+2026-02-23 19:39:51,030 - INFO - [INTAKE] Text: Psychic powers exist...
+2026-02-23 19:39:51,030 - INFO - [INTAKE] ✓ Categorized as: psychic
+2026-02-23 19:39:51,030 - INFO - [VALIDATE] Validating psychic complaint 16319e34
+2026-02-23 19:39:51,030 - INFO - [VALIDATE] ✓ Validation passed: Valid psychic complaint with ability reference
+2026-02-23 19:40:11,599 - INFO - NormalObjects LangGraph System - Initialization
+2026-02-23 19:40:11,599 - INFO - ============================================================
+2026-02-23 19:40:11,600 - INFO - Duplicate detected! Links to complaint test-001 from 0 days ago
+2026-02-23 19:40:11,600 - INFO - [INTAKE] Processing complaint 40b25de1
+2026-02-23 19:40:11,600 - INFO - [INTAKE] Text: Portal opens at different times each day...
+2026-02-23 19:40:11,601 - INFO - [INTAKE] ✓ Categorized as: portal
+2026-02-23 19:40:11,601 - INFO - [INTAKE] Processing complaint 8d276278
+2026-02-23 19:40:11,601 - INFO - [INTAKE] Text: Demogorgons sometimes work together...
+2026-02-23 19:40:11,601 - INFO - [INTAKE] ✓ Categorized as: monster
+2026-02-23 19:40:11,601 - INFO - [INTAKE] Processing complaint 87a11f54
+2026-02-23 19:40:11,601 - INFO - [INTAKE] Text: El can move things with her mind but can't lift rocks...
+2026-02-23 19:40:11,601 - INFO - [INTAKE] ✓ Categorized as: psychic
+2026-02-23 19:40:11,602 - INFO - [INTAKE] Processing complaint a4cec500
+2026-02-23 19:40:11,602 - INFO - [INTAKE] Text: Power lines react strangely with creatures...
+2026-02-23 19:40:11,602 - INFO - [INTAKE] ✓ Categorized as: environmental
+2026-02-23 19:40:11,602 - INFO - [INTAKE] Processing complaint 00652dc2
+2026-02-23 19:40:11,602 - INFO - [INTAKE] Text: This is a random complaint about nothing specific...
+2026-02-23 19:40:11,602 - INFO - [INTAKE] ✓ Categorized as: other
+2026-02-23 19:40:11,602 - INFO - [INTAKE] Processing complaint bbf53f04
+2026-02-23 19:40:11,602 - INFO - [INTAKE] Text: Portal opens at random times in Hawkins Lab...
+2026-02-23 19:40:11,602 - INFO - [INTAKE] ✓ Categorized as: portal
+2026-02-23 19:40:11,603 - INFO - [INTAKE] Processing complaint c1b10c06
+2026-02-23 19:40:11,603 - INFO - [INTAKE] Text: Portal opens at random times in Hawkins Lab...
+2026-02-23 19:40:11,603 - INFO - Duplicate detected! Links to complaint bbf53f04 from 0 days ago
+2026-02-23 19:40:11,603 - INFO - [INTAKE] ⚠️  Duplicate detected - linked to bbf53f04
+2026-02-23 19:40:11,603 - INFO - [INTAKE] ✓ Categorized as: portal
+2026-02-23 19:40:11,603 - INFO - [INTAKE] Processing complaint 95f25de0
+2026-02-23 19:40:11,603 - INFO - [INTAKE] Text: Portal opens at different times each day in Hawkins Lab...
+2026-02-23 19:40:11,604 - INFO - [INTAKE] ✓ Categorized as: portal
+2026-02-23 19:40:11,604 - INFO - [VALIDATE] Validating portal complaint 95f25de0
+2026-02-23 19:40:11,604 - INFO - [VALIDATE] ✓ Validation passed: Valid portal complaint with location reference and timing reference
+2026-02-23 19:40:11,604 - INFO - [INTAKE] Processing complaint d37d6328
+2026-02-23 19:40:11,604 - INFO - [INTAKE] Text: Demogorgons sometimes work together and sometimes fight...
+2026-02-23 19:40:11,604 - INFO - [INTAKE] ✓ Categorized as: monster
+2026-02-23 19:40:11,604 - INFO - [VALIDATE] Validating monster complaint d37d6328
+2026-02-23 19:40:11,604 - INFO - [VALIDATE] ✓ Validation passed: Valid monster complaint with behavioral description
+2026-02-23 19:40:11,605 - INFO - [INTAKE] Processing complaint 8f74b9dd
+2026-02-23 19:40:11,605 - INFO - [INTAKE] Text: El can move things with her mind but can't lift heavy rocks...
+2026-02-23 19:40:11,605 - INFO - [INTAKE] ✓ Categorized as: psychic
+2026-02-23 19:40:11,605 - INFO - [VALIDATE] Validating psychic complaint 8f74b9dd
+2026-02-23 19:40:11,605 - INFO - [VALIDATE] ✓ Validation passed: Valid psychic complaint with ability and limitation reference
+2026-02-23 19:40:11,606 - INFO - [INTAKE] Processing complaint 1b2eeb3e
+2026-02-23 19:40:11,606 - INFO - [INTAKE] Text: Power lines flicker when creatures are nearby...
+2026-02-23 19:40:11,606 - INFO - [INTAKE] ✓ Categorized as: environmental
+2026-02-23 19:40:11,606 - INFO - [VALIDATE] Validating environmental complaint 1b2eeb3e
+2026-02-23 19:40:11,606 - INFO - [VALIDATE] ✓ Validation passed: Valid environmental complaint with electrical, physical phenomenon reference
+2026-02-23 19:40:11,606 - INFO - [INTAKE] Processing complaint 5e8a3df4
+2026-02-23 19:40:11,606 - INFO - [INTAKE] Text: There's a portal...
+2026-02-23 19:40:11,606 - INFO - [INTAKE] ✓ Categorized as: portal
+2026-02-23 19:40:11,607 - INFO - [VALIDATE] Validating portal complaint 5e8a3df4
+2026-02-23 19:40:11,607 - WARNING - [VALIDATE] ✗ Validation failed: Portal complaint lacks specific location or timing information
+2026-02-23 19:40:11,607 - INFO - [INTAKE] Processing complaint b5f1069c
+2026-02-23 19:40:11,607 - INFO - [INTAKE] Text: I saw a monster...
+2026-02-23 19:40:11,607 - INFO - [INTAKE] ✓ Categorized as: monster
+2026-02-23 19:40:11,607 - INFO - [VALIDATE] Validating monster complaint b5f1069c
+2026-02-23 19:40:11,607 - WARNING - [VALIDATE] ✗ Validation failed: Monster complaint lacks creature behavior or interaction description
+2026-02-23 19:40:11,607 - INFO - [INTAKE] Processing complaint 89463c1b
+2026-02-23 19:40:11,607 - INFO - [INTAKE] Text: Psychic powers exist...
+2026-02-23 19:40:11,608 - INFO - [INTAKE] ✓ Categorized as: psychic
+2026-02-23 19:40:11,608 - INFO - [VALIDATE] Validating psychic complaint 89463c1b
+2026-02-23 19:40:11,608 - WARNING - [VALIDATE] ✗ Validation failed: Psychic complaint mentions ability but lacks limitation details
+2026-02-23 19:40:11,608 - INFO - [INTAKE] Processing complaint cdd95f21
+2026-02-23 19:40:11,608 - INFO - [INTAKE] Text: This is about something completely random...
+2026-02-23 19:40:11,608 - INFO - [INTAKE] ✓ Categorized as: other
+2026-02-23 19:40:11,608 - INFO - [VALIDATE] Validating other complaint cdd95f21
+2026-02-23 19:40:11,608 - WARNING - [VALIDATE] ⚠️  OTHER category - escalating for manual review
+2026-02-23 19:40:11,609 - INFO - [INTAKE] Processing complaint c3d40eb0
+2026-02-23 19:40:11,609 - INFO - [INTAKE] Text: Random complaint about coffee...
+2026-02-23 19:40:11,609 - INFO - [INTAKE] ✓ Categorized as: other
+2026-02-23 19:40:11,609 - INFO - [VALIDATE] Validating other complaint c3d40eb0
+2026-02-23 19:40:11,609 - WARNING - [VALIDATE] ⚠️  OTHER category - escalating for manual review
+2026-02-23 19:40:11,610 - INFO - [INTAKE] Processing complaint 27a31008
+2026-02-23 19:40:11,610 - INFO - [INTAKE] Text: Portal timing is weird in the lab...
+2026-02-23 19:40:11,610 - INFO - [INTAKE] ✓ Categorized as: portal
+2026-02-23 19:40:11,611 - INFO - [VALIDATE] Validating portal complaint 27a31008
+2026-02-23 19:40:11,611 - INFO - [VALIDATE] ✓ Validation passed: Valid portal complaint with location reference
+2026-02-23 19:40:11,611 - INFO - [INTAKE] Processing complaint 18cfc455
+2026-02-23 19:40:11,611 - INFO - [INTAKE] Text: Portal timing is weird in the lab...
+2026-02-23 19:40:11,611 - INFO - Duplicate detected! Links to complaint 27a31008 from 0 days ago
+2026-02-23 19:40:11,612 - INFO - [INTAKE] ⚠️  Duplicate detected - linked to 27a31008
+2026-02-23 19:40:11,612 - INFO - [INTAKE] ✓ Categorized as: portal
+2026-02-23 19:40:11,612 - INFO - [VALIDATE] Validating portal complaint 18cfc455
+2026-02-23 19:40:11,612 - INFO - [VALIDATE] ⚠️  Duplicate - skipping full validation
+2026-02-23 19:41:56,787 - INFO - NormalObjects LangGraph System - Initialization
+2026-02-23 19:41:56,788 - INFO - ============================================================
+2026-02-23 19:41:56,788 - INFO - Duplicate detected! Links to complaint test-001 from 0 days ago
+2026-02-23 19:41:56,788 - INFO - [INTAKE] Processing complaint a9d4e6ff
+2026-02-23 19:41:56,788 - INFO - [INTAKE] Text: Portal opens at different times each day...
+2026-02-23 19:41:56,788 - INFO - [INTAKE] ✓ Categorized as: portal
+2026-02-23 19:41:56,788 - INFO - [INTAKE] Processing complaint 7dc8748b
+2026-02-23 19:41:56,788 - INFO - [INTAKE] Text: Demogorgons sometimes work together...
+2026-02-23 19:41:56,788 - INFO - [INTAKE] ✓ Categorized as: monster
+2026-02-23 19:41:56,788 - INFO - [INTAKE] Processing complaint 5c197074
+2026-02-23 19:41:56,788 - INFO - [INTAKE] Text: El can move things with her mind but can't lift rocks...
+2026-02-23 19:41:56,788 - INFO - [INTAKE] ✓ Categorized as: psychic
+2026-02-23 19:41:56,788 - INFO - [INTAKE] Processing complaint 4fee6491
+2026-02-23 19:41:56,788 - INFO - [INTAKE] Text: Power lines react strangely with creatures...
+2026-02-23 19:41:56,788 - INFO - [INTAKE] ✓ Categorized as: environmental
+2026-02-23 19:41:56,788 - INFO - [INTAKE] Processing complaint b78b479c
+2026-02-23 19:41:56,788 - INFO - [INTAKE] Text: This is a random complaint about nothing specific...
+2026-02-23 19:41:56,788 - INFO - [INTAKE] ✓ Categorized as: other
+2026-02-23 19:41:56,788 - INFO - [INTAKE] Processing complaint 2deb3aa2
+2026-02-23 19:41:56,789 - INFO - [INTAKE] Text: Portal opens at random times in Hawkins Lab...
+2026-02-23 19:41:56,789 - INFO - [INTAKE] ✓ Categorized as: portal
+2026-02-23 19:41:56,789 - INFO - [INTAKE] Processing complaint 11978495
+2026-02-23 19:41:56,789 - INFO - [INTAKE] Text: Portal opens at random times in Hawkins Lab...
+2026-02-23 19:41:56,789 - INFO - Duplicate detected! Links to complaint 2deb3aa2 from 0 days ago
+2026-02-23 19:41:56,789 - INFO - [INTAKE] ⚠️  Duplicate detected - linked to 2deb3aa2
+2026-02-23 19:41:56,789 - INFO - [INTAKE] ✓ Categorized as: portal
+2026-02-23 19:41:56,789 - INFO - [INTAKE] Processing complaint 3f7500ad
+2026-02-23 19:41:56,789 - INFO - [INTAKE] Text: Portal opens at different times each day in Hawkins Lab...
+2026-02-23 19:41:56,789 - INFO - [INTAKE] ✓ Categorized as: portal
+2026-02-23 19:41:56,789 - INFO - [VALIDATE] Validating portal complaint 3f7500ad
+2026-02-23 19:41:56,789 - INFO - [VALIDATE] ✓ Validation passed: Valid portal complaint with location reference and timing reference
+2026-02-23 19:41:56,789 - INFO - [INTAKE] Processing complaint 08149600
+2026-02-23 19:41:56,789 - INFO - [INTAKE] Text: Demogorgons sometimes work together and sometimes fight...
+2026-02-23 19:41:56,789 - INFO - [INTAKE] ✓ Categorized as: monster
+2026-02-23 19:41:56,789 - INFO - [VALIDATE] Validating monster complaint 08149600
+2026-02-23 19:41:56,789 - INFO - [VALIDATE] ✓ Validation passed: Valid monster complaint with behavioral description
+2026-02-23 19:41:56,789 - INFO - [INTAKE] Processing complaint f57dac47
+2026-02-23 19:41:56,789 - INFO - [INTAKE] Text: El can move things with her mind but can't lift heavy rocks...
+2026-02-23 19:41:56,789 - INFO - [INTAKE] ✓ Categorized as: psychic
+2026-02-23 19:41:56,789 - INFO - [VALIDATE] Validating psychic complaint f57dac47
+2026-02-23 19:41:56,789 - INFO - [VALIDATE] ✓ Validation passed: Valid psychic complaint with ability and limitation reference
+2026-02-23 19:41:56,789 - INFO - [INTAKE] Processing complaint 0d2848fd
+2026-02-23 19:41:56,789 - INFO - [INTAKE] Text: Power lines flicker when creatures are nearby...
+2026-02-23 19:41:56,789 - INFO - [INTAKE] ✓ Categorized as: environmental
+2026-02-23 19:41:56,790 - INFO - [VALIDATE] Validating environmental complaint 0d2848fd
+2026-02-23 19:41:56,790 - INFO - [VALIDATE] ✓ Validation passed: Valid environmental complaint with electrical, physical phenomenon reference
+2026-02-23 19:41:56,790 - INFO - [INTAKE] Processing complaint edba8439
+2026-02-23 19:41:56,790 - INFO - [INTAKE] Text: There's a portal...
+2026-02-23 19:41:56,790 - INFO - [INTAKE] ✓ Categorized as: portal
+2026-02-23 19:41:56,790 - INFO - [VALIDATE] Validating portal complaint edba8439
+2026-02-23 19:41:56,790 - WARNING - [VALIDATE] ✗ Validation failed: Portal complaint lacks specific location or timing information
+2026-02-23 19:41:56,790 - INFO - [INTAKE] Processing complaint eb792556
+2026-02-23 19:41:56,790 - INFO - [INTAKE] Text: I saw a monster...
+2026-02-23 19:41:56,790 - INFO - [INTAKE] ✓ Categorized as: monster
+2026-02-23 19:41:56,790 - INFO - [VALIDATE] Validating monster complaint eb792556
+2026-02-23 19:41:56,790 - WARNING - [VALIDATE] ✗ Validation failed: Monster complaint lacks creature behavior or interaction description
+2026-02-23 19:41:56,790 - INFO - [INTAKE] Processing complaint f959a90d
+2026-02-23 19:41:56,790 - INFO - [INTAKE] Text: Psychic powers exist...
+2026-02-23 19:41:56,790 - INFO - [INTAKE] ✓ Categorized as: psychic
+2026-02-23 19:41:56,790 - INFO - [VALIDATE] Validating psychic complaint f959a90d
+2026-02-23 19:41:56,790 - WARNING - [VALIDATE] ✗ Validation failed: Psychic complaint mentions ability but lacks limitation details
+2026-02-23 19:41:56,790 - INFO - [INTAKE] Processing complaint 63f46e4a
+2026-02-23 19:41:56,790 - INFO - [INTAKE] Text: This is about something completely random...
+2026-02-23 19:41:56,790 - INFO - [INTAKE] ✓ Categorized as: other
+2026-02-23 19:41:56,790 - INFO - [VALIDATE] Validating other complaint 63f46e4a
+2026-02-23 19:41:56,790 - WARNING - [VALIDATE] ⚠️  OTHER category - escalating for manual review
+2026-02-23 19:41:56,790 - INFO - [INTAKE] Processing complaint fd78648a
+2026-02-23 19:41:56,790 - INFO - [INTAKE] Text: Random complaint about coffee...
+2026-02-23 19:41:56,790 - INFO - [INTAKE] ✓ Categorized as: other
+2026-02-23 19:41:56,791 - INFO - [VALIDATE] Validating other complaint fd78648a
+2026-02-23 19:41:56,791 - WARNING - [VALIDATE] ⚠️  OTHER category - escalating for manual review
+2026-02-23 19:41:56,791 - INFO - [INTAKE] Processing complaint 354ba910
+2026-02-23 19:41:56,791 - INFO - [INTAKE] Text: Portal timing is weird in the lab...
+2026-02-23 19:41:56,791 - INFO - [INTAKE] ✓ Categorized as: portal
+2026-02-23 19:41:56,791 - INFO - [VALIDATE] Validating portal complaint 354ba910
+2026-02-23 19:41:56,791 - INFO - [VALIDATE] ✓ Validation passed: Valid portal complaint with location reference
+2026-02-23 19:41:56,791 - INFO - [INTAKE] Processing complaint 5cf1e341
+2026-02-23 19:41:56,791 - INFO - [INTAKE] Text: Portal timing is weird in the lab...
+2026-02-23 19:41:56,791 - INFO - Duplicate detected! Links to complaint 354ba910 from 0 days ago
+2026-02-23 19:41:56,791 - INFO - [INTAKE] ⚠️  Duplicate detected - linked to 354ba910
+2026-02-23 19:41:56,791 - INFO - [INTAKE] ✓ Categorized as: portal
+2026-02-23 19:41:56,791 - INFO - [VALIDATE] Validating portal complaint 5cf1e341
+2026-02-23 19:41:56,791 - INFO - [VALIDATE] ⚠️  Duplicate - skipping full validation
+2026-02-23 19:41:56,791 - INFO - [INTAKE] Processing complaint ca46ddb1
+2026-02-23 19:41:56,791 - INFO - [INTAKE] Text: Portal opens randomly in Hawkins Lab at midnight...
+2026-02-23 19:41:56,791 - INFO - [INTAKE] ✓ Categorized as: portal
+2026-02-23 19:41:56,791 - INFO - [VALIDATE] Validating portal complaint ca46ddb1
+2026-02-23 19:41:56,791 - INFO - [VALIDATE] ✓ Validation passed: Valid portal complaint with location reference and timing reference
+2026-02-23 19:41:56,791 - INFO - [INVESTIGATE] Investigating portal complaint ca46ddb1
+2026-02-23 19:41:56,791 - INFO - [INVESTIGATE] ✓ Evidence gathered (702 chars)
+2026-02-23 19:41:56,791 - INFO - [INTAKE] Processing complaint 9ff76c2b
+2026-02-23 19:41:56,791 - INFO - [INTAKE] Text: Demogorgons work together when hunting but fight over food...
+2026-02-23 19:41:56,792 - INFO - [INTAKE] ✓ Categorized as: monster
+2026-02-23 19:41:56,792 - INFO - [VALIDATE] Validating monster complaint 9ff76c2b
+2026-02-23 19:41:56,792 - INFO - [VALIDATE] ✓ Validation passed: Valid monster complaint with behavioral description
+2026-02-23 19:41:56,792 - INFO - [INVESTIGATE] Investigating monster complaint 9ff76c2b
+2026-02-23 19:41:56,792 - INFO - [INVESTIGATE] ✓ Evidence gathered (749 chars)
+2026-02-23 19:41:56,792 - INFO - [INTAKE] Processing complaint 5a2fdf37
+2026-02-23 19:41:56,792 - INFO - [INTAKE] Text: El can move small objects but can't lift anything heavy...
+2026-02-23 19:41:56,792 - INFO - [INTAKE] ✓ Categorized as: psychic
+2026-02-23 19:41:56,792 - INFO - [VALIDATE] Validating psychic complaint 5a2fdf37
+2026-02-23 19:41:56,792 - INFO - [VALIDATE] ✓ Validation passed: Valid psychic complaint with ability and limitation reference
+2026-02-23 19:41:56,792 - INFO - [INVESTIGATE] Investigating psychic complaint 5a2fdf37
+2026-02-23 19:41:56,792 - INFO - [INVESTIGATE] ✓ Evidence gathered (721 chars)
+2026-02-23 19:41:56,792 - INFO - [INTAKE] Processing complaint e3dbc00b
+2026-02-23 19:41:56,792 - INFO - [INTAKE] Text: Power lines flicker whenever creatures appear nearby...
+2026-02-23 19:41:56,793 - INFO - [INTAKE] ✓ Categorized as: environmental
+2026-02-23 19:41:56,793 - INFO - [VALIDATE] Validating environmental complaint e3dbc00b
+2026-02-23 19:41:56,793 - INFO - [VALIDATE] ✓ Validation passed: Valid environmental complaint with electrical, physical phenomenon reference
+2026-02-23 19:41:56,793 - INFO - [INVESTIGATE] Investigating environmental complaint e3dbc00b
+2026-02-23 19:41:56,793 - INFO - [INVESTIGATE] ✓ Evidence gathered (775 chars)
+2026-02-23 19:41:56,793 - INFO - [INTAKE] Processing complaint 6d3dbc8a
+2026-02-23 19:41:56,793 - INFO - [INTAKE] Text: There's a portal...
+2026-02-23 19:41:56,793 - INFO - [INTAKE] ✓ Categorized as: portal
+2026-02-23 19:41:56,793 - INFO - [VALIDATE] Validating portal complaint 6d3dbc8a
+2026-02-23 19:41:56,793 - WARNING - [VALIDATE] ✗ Validation failed: Portal complaint lacks specific location or timing information
+2026-02-23 19:41:56,793 - INFO - [INVESTIGATE] Investigating portal complaint 6d3dbc8a
+2026-02-23 19:41:56,793 - WARNING - [INVESTIGATE] Skipped - complaint failed validation
+2026-02-23 19:41:56,793 - INFO - [INTAKE] Processing complaint 2323d5b5
+2026-02-23 19:41:56,793 - INFO - [INTAKE] Text: Portal timing weird in the lab at night...
+2026-02-23 19:41:56,793 - INFO - [INTAKE] ✓ Categorized as: portal
+2026-02-23 19:41:56,794 - INFO - [VALIDATE] Validating portal complaint 2323d5b5
+2026-02-23 19:41:56,794 - INFO - [VALIDATE] ✓ Validation passed: Valid portal complaint with location reference and timing reference
+2026-02-23 19:41:56,794 - INFO - [INVESTIGATE] Investigating portal complaint 2323d5b5
+2026-02-23 19:41:56,794 - INFO - [INVESTIGATE] ✓ Evidence gathered (702 chars)
+2026-02-23 19:41:56,794 - INFO - [INTAKE] Processing complaint 0dd9bc50
+2026-02-23 19:41:56,794 - INFO - [INTAKE] Text: Portal timing weird in the lab at night...
+2026-02-23 19:41:56,794 - INFO - Duplicate detected! Links to complaint 2323d5b5 from 0 days ago
+2026-02-23 19:41:56,794 - INFO - [INTAKE] ⚠️  Duplicate detected - linked to 2323d5b5
+2026-02-23 19:41:56,794 - INFO - [INTAKE] ✓ Categorized as: portal
+2026-02-23 19:41:56,794 - INFO - [VALIDATE] Validating portal complaint 0dd9bc50
+2026-02-23 19:41:56,794 - INFO - [VALIDATE] ⚠️  Duplicate - skipping full validation
+2026-02-23 19:41:56,794 - INFO - [INVESTIGATE] Investigating portal complaint 0dd9bc50
+2026-02-23 19:41:56,794 - INFO - [INVESTIGATE] Duplicate - referring to original 2323d5b5
+2026-02-23 19:41:56,794 - INFO - [INTAKE] Processing complaint d0a40096
+2026-02-23 19:41:56,794 - INFO - [INTAKE] Text: Storm activity correlates with electrical anomalies...
+2026-02-23 19:41:56,794 - INFO - [INTAKE] ✓ Categorized as: environmental
+2026-02-23 19:41:56,794 - INFO - [VALIDATE] Validating environmental complaint d0a40096
+2026-02-23 19:41:56,794 - INFO - [VALIDATE] ✓ Validation passed: Valid environmental complaint with electrical, weather reference
+2026-02-23 19:41:56,794 - INFO - [INVESTIGATE] Investigating environmental complaint d0a40096
+2026-02-23 19:41:56,794 - INFO - [INVESTIGATE] ✓ Evidence gathered (775 chars)
+2026-02-23 19:50:58,792 - INFO - NormalObjects LangGraph System - Initialization
+2026-02-23 19:50:58,792 - INFO - ============================================================
+2026-02-23 19:50:58,792 - INFO - Duplicate detected! Links to complaint test-001 from 0 days ago
+2026-02-23 19:50:58,792 - INFO - [INTAKE] Processing complaint 0479fc9e
+2026-02-23 19:50:58,792 - INFO - [INTAKE] Text: Portal opens at different times each day...
+2026-02-23 19:50:58,792 - INFO - [INTAKE] ✓ Categorized as: portal
+2026-02-23 19:50:58,792 - INFO - [INTAKE] Processing complaint 7492b631
+2026-02-23 19:50:58,792 - INFO - [INTAKE] Text: Demogorgons sometimes work together...
+2026-02-23 19:50:58,792 - INFO - [INTAKE] ✓ Categorized as: monster
+2026-02-23 19:50:58,793 - INFO - [INTAKE] Processing complaint 5688810e
+2026-02-23 19:50:58,793 - INFO - [INTAKE] Text: El can move things with her mind but can't lift rocks...
+2026-02-23 19:50:58,793 - INFO - [INTAKE] ✓ Categorized as: psychic
+2026-02-23 19:50:58,793 - INFO - [INTAKE] Processing complaint 93b7eacd
+2026-02-23 19:50:58,793 - INFO - [INTAKE] Text: Power lines react strangely with creatures...
+2026-02-23 19:50:58,793 - INFO - [INTAKE] ✓ Categorized as: environmental
+2026-02-23 19:50:58,793 - INFO - [INTAKE] Processing complaint 31b9bdea
+2026-02-23 19:50:58,793 - INFO - [INTAKE] Text: This is a random complaint about nothing specific...
+2026-02-23 19:50:58,793 - INFO - [INTAKE] ✓ Categorized as: other
+2026-02-23 19:50:58,793 - INFO - [INTAKE] Processing complaint 9eb9f087
+2026-02-23 19:50:58,793 - INFO - [INTAKE] Text: Portal opens at random times in Hawkins Lab...
+2026-02-23 19:50:58,793 - INFO - [INTAKE] ✓ Categorized as: portal
+2026-02-23 19:50:58,793 - INFO - [INTAKE] Processing complaint ead49cbe
+2026-02-23 19:50:58,793 - INFO - [INTAKE] Text: Portal opens at random times in Hawkins Lab...
+2026-02-23 19:50:58,793 - INFO - Duplicate detected! Links to complaint 9eb9f087 from 0 days ago
+2026-02-23 19:50:58,793 - INFO - [INTAKE] ⚠️  Duplicate detected - linked to 9eb9f087
+2026-02-23 19:50:58,793 - INFO - [INTAKE] ✓ Categorized as: portal
+2026-02-23 19:50:58,793 - INFO - [INTAKE] Processing complaint aee237c6
+2026-02-23 19:50:58,793 - INFO - [INTAKE] Text: Portal opens at different times each day in Hawkins Lab...
+2026-02-23 19:50:58,793 - INFO - [INTAKE] ✓ Categorized as: portal
+2026-02-23 19:50:58,793 - INFO - [VALIDATE] Validating portal complaint aee237c6
+2026-02-23 19:50:58,793 - INFO - [VALIDATE] ✓ Validation passed: Valid portal complaint with location reference and timing reference
+2026-02-23 19:50:58,793 - INFO - [INTAKE] Processing complaint f50582fd
+2026-02-23 19:50:58,793 - INFO - [INTAKE] Text: Demogorgons sometimes work together and sometimes fight...
+2026-02-23 19:50:58,794 - INFO - [INTAKE] ✓ Categorized as: monster
+2026-02-23 19:50:58,794 - INFO - [VALIDATE] Validating monster complaint f50582fd
+2026-02-23 19:50:58,794 - INFO - [VALIDATE] ✓ Validation passed: Valid monster complaint with behavioral description
+2026-02-23 19:50:58,794 - INFO - [INTAKE] Processing complaint 53aa0a88
+2026-02-23 19:50:58,794 - INFO - [INTAKE] Text: El can move things with her mind but can't lift heavy rocks...
+2026-02-23 19:50:58,794 - INFO - [INTAKE] ✓ Categorized as: psychic
+2026-02-23 19:50:58,794 - INFO - [VALIDATE] Validating psychic complaint 53aa0a88
+2026-02-23 19:50:58,794 - INFO - [VALIDATE] ✓ Validation passed: Valid psychic complaint with ability and limitation reference
+2026-02-23 19:50:58,794 - INFO - [INTAKE] Processing complaint dd552e56
+2026-02-23 19:50:58,794 - INFO - [INTAKE] Text: Power lines flicker when creatures are nearby...
+2026-02-23 19:50:58,794 - INFO - [INTAKE] ✓ Categorized as: environmental
+2026-02-23 19:50:58,794 - INFO - [VALIDATE] Validating environmental complaint dd552e56
+2026-02-23 19:50:58,794 - INFO - [VALIDATE] ✓ Validation passed: Valid environmental complaint with electrical, physical phenomenon reference
+2026-02-23 19:50:58,794 - INFO - [INTAKE] Processing complaint 51769742
+2026-02-23 19:50:58,794 - INFO - [INTAKE] Text: There's a portal...
+2026-02-23 19:50:58,794 - INFO - [INTAKE] ✓ Categorized as: portal
+2026-02-23 19:50:58,794 - INFO - [VALIDATE] Validating portal complaint 51769742
+2026-02-23 19:50:58,794 - WARNING - [VALIDATE] ✗ Validation failed: Portal complaint lacks specific location or timing information
+2026-02-23 19:50:58,794 - INFO - [INTAKE] Processing complaint cda1c769
+2026-02-23 19:50:58,794 - INFO - [INTAKE] Text: I saw a monster...
+2026-02-23 19:50:58,794 - INFO - [INTAKE] ✓ Categorized as: monster
+2026-02-23 19:50:58,794 - INFO - [VALIDATE] Validating monster complaint cda1c769
+2026-02-23 19:50:58,794 - WARNING - [VALIDATE] ✗ Validation failed: Monster complaint lacks creature behavior or interaction description
+2026-02-23 19:50:58,794 - INFO - [INTAKE] Processing complaint ad2b5315
+2026-02-23 19:50:58,794 - INFO - [INTAKE] Text: Psychic powers exist...
+2026-02-23 19:50:58,795 - INFO - [INTAKE] ✓ Categorized as: psychic
+2026-02-23 19:50:58,795 - INFO - [VALIDATE] Validating psychic complaint ad2b5315
+2026-02-23 19:50:58,795 - WARNING - [VALIDATE] ✗ Validation failed: Psychic complaint mentions ability but lacks limitation details
+2026-02-23 19:50:58,795 - INFO - [INTAKE] Processing complaint bc16ca7a
+2026-02-23 19:50:58,795 - INFO - [INTAKE] Text: This is about something completely random...
+2026-02-23 19:50:58,795 - INFO - [INTAKE] ✓ Categorized as: other
+2026-02-23 19:50:58,795 - INFO - [VALIDATE] Validating other complaint bc16ca7a
+2026-02-23 19:50:58,795 - WARNING - [VALIDATE] ⚠️  OTHER category - escalating for manual review
+2026-02-23 19:50:58,795 - INFO - [INTAKE] Processing complaint 08a8b196
+2026-02-23 19:50:58,795 - INFO - [INTAKE] Text: Random complaint about coffee...
+2026-02-23 19:50:58,795 - INFO - [INTAKE] ✓ Categorized as: other
+2026-02-23 19:50:58,795 - INFO - [VALIDATE] Validating other complaint 08a8b196
+2026-02-23 19:50:58,795 - WARNING - [VALIDATE] ⚠️  OTHER category - escalating for manual review
+2026-02-23 19:50:58,795 - INFO - [INTAKE] Processing complaint 274eaaaf
+2026-02-23 19:50:58,795 - INFO - [INTAKE] Text: Portal timing is weird in the lab...
+2026-02-23 19:50:58,795 - INFO - [INTAKE] ✓ Categorized as: portal
+2026-02-23 19:50:58,795 - INFO - [VALIDATE] Validating portal complaint 274eaaaf
+2026-02-23 19:50:58,795 - INFO - [VALIDATE] ✓ Validation passed: Valid portal complaint with location reference
+2026-02-23 19:50:58,795 - INFO - [INTAKE] Processing complaint aca242f1
+2026-02-23 19:50:58,795 - INFO - [INTAKE] Text: Portal timing is weird in the lab...
+2026-02-23 19:50:58,795 - INFO - Duplicate detected! Links to complaint 274eaaaf from 0 days ago
+2026-02-23 19:50:58,795 - INFO - [INTAKE] ⚠️  Duplicate detected - linked to 274eaaaf
+2026-02-23 19:50:58,795 - INFO - [INTAKE] ✓ Categorized as: portal
+2026-02-23 19:50:58,795 - INFO - [VALIDATE] Validating portal complaint aca242f1
+2026-02-23 19:50:58,795 - INFO - [VALIDATE] ⚠️  Duplicate - skipping full validation
+2026-02-23 19:50:58,796 - INFO - [INTAKE] Processing complaint 20ed1fd3
+2026-02-23 19:50:58,796 - INFO - [INTAKE] Text: Portal opens randomly in Hawkins Lab at midnight...
+2026-02-23 19:50:58,796 - INFO - [INTAKE] ✓ Categorized as: portal
+2026-02-23 19:50:58,796 - INFO - [VALIDATE] Validating portal complaint 20ed1fd3
+2026-02-23 19:50:58,796 - INFO - [VALIDATE] ✓ Validation passed: Valid portal complaint with location reference and timing reference
+2026-02-23 19:50:58,796 - INFO - [INVESTIGATE] Investigating portal complaint 20ed1fd3
+2026-02-23 19:50:58,796 - INFO - [INVESTIGATE] ✓ Evidence gathered (702 chars)
+2026-02-23 19:50:58,796 - INFO - [INTAKE] Processing complaint 9ff850eb
+2026-02-23 19:50:58,796 - INFO - [INTAKE] Text: Demogorgons work together when hunting but fight over food...
+2026-02-23 19:50:58,796 - INFO - [INTAKE] ✓ Categorized as: monster
+2026-02-23 19:50:58,796 - INFO - [VALIDATE] Validating monster complaint 9ff850eb
+2026-02-23 19:50:58,796 - INFO - [VALIDATE] ✓ Validation passed: Valid monster complaint with behavioral description
+2026-02-23 19:50:58,796 - INFO - [INVESTIGATE] Investigating monster complaint 9ff850eb
+2026-02-23 19:50:58,796 - INFO - [INVESTIGATE] ✓ Evidence gathered (749 chars)
+2026-02-23 19:50:58,796 - INFO - [INTAKE] Processing complaint 1e2a53b0
+2026-02-23 19:50:58,796 - INFO - [INTAKE] Text: El can move small objects but can't lift anything heavy...
+2026-02-23 19:50:58,796 - INFO - [INTAKE] ✓ Categorized as: psychic
+2026-02-23 19:50:58,796 - INFO - [VALIDATE] Validating psychic complaint 1e2a53b0
+2026-02-23 19:50:58,796 - INFO - [VALIDATE] ✓ Validation passed: Valid psychic complaint with ability and limitation reference
+2026-02-23 19:50:58,796 - INFO - [INVESTIGATE] Investigating psychic complaint 1e2a53b0
+2026-02-23 19:50:58,796 - INFO - [INVESTIGATE] ✓ Evidence gathered (721 chars)
+2026-02-23 19:50:58,796 - INFO - [INTAKE] Processing complaint d57ddd84
+2026-02-23 19:50:58,797 - INFO - [INTAKE] Text: Power lines flicker whenever creatures appear nearby...
+2026-02-23 19:50:58,797 - INFO - [INTAKE] ✓ Categorized as: environmental
+2026-02-23 19:50:58,797 - INFO - [VALIDATE] Validating environmental complaint d57ddd84
+2026-02-23 19:50:58,797 - INFO - [VALIDATE] ✓ Validation passed: Valid environmental complaint with electrical, physical phenomenon reference
+2026-02-23 19:50:58,797 - INFO - [INVESTIGATE] Investigating environmental complaint d57ddd84
+2026-02-23 19:50:58,797 - INFO - [INVESTIGATE] ✓ Evidence gathered (775 chars)
+2026-02-23 19:50:58,797 - INFO - [INTAKE] Processing complaint 34219f4b
+2026-02-23 19:50:58,797 - INFO - [INTAKE] Text: There's a portal...
+2026-02-23 19:50:58,797 - INFO - [INTAKE] ✓ Categorized as: portal
+2026-02-23 19:50:58,797 - INFO - [VALIDATE] Validating portal complaint 34219f4b
+2026-02-23 19:50:58,797 - WARNING - [VALIDATE] ✗ Validation failed: Portal complaint lacks specific location or timing information
+2026-02-23 19:50:58,797 - INFO - [INVESTIGATE] Investigating portal complaint 34219f4b
+2026-02-23 19:50:58,797 - WARNING - [INVESTIGATE] Skipped - complaint failed validation
+2026-02-23 19:50:58,797 - INFO - [INTAKE] Processing complaint 13dfb5b9
+2026-02-23 19:50:58,797 - INFO - [INTAKE] Text: Portal timing weird in the lab at night...
+2026-02-23 19:50:58,797 - INFO - [INTAKE] ✓ Categorized as: portal
+2026-02-23 19:50:58,797 - INFO - [VALIDATE] Validating portal complaint 13dfb5b9
+2026-02-23 19:50:58,797 - INFO - [VALIDATE] ✓ Validation passed: Valid portal complaint with location reference and timing reference
+2026-02-23 19:50:58,797 - INFO - [INVESTIGATE] Investigating portal complaint 13dfb5b9
+2026-02-23 19:50:58,797 - INFO - [INVESTIGATE] ✓ Evidence gathered (702 chars)
+2026-02-23 19:50:58,797 - INFO - [INTAKE] Processing complaint 9e00614b
+2026-02-23 19:50:58,797 - INFO - [INTAKE] Text: Portal timing weird in the lab at night...
+2026-02-23 19:50:58,797 - INFO - Duplicate detected! Links to complaint 13dfb5b9 from 0 days ago
+2026-02-23 19:50:58,797 - INFO - [INTAKE] ⚠️  Duplicate detected - linked to 13dfb5b9
+2026-02-23 19:50:58,797 - INFO - [INTAKE] ✓ Categorized as: portal
+2026-02-23 19:50:58,797 - INFO - [VALIDATE] Validating portal complaint 9e00614b
+2026-02-23 19:50:58,797 - INFO - [VALIDATE] ⚠️  Duplicate - skipping full validation
+2026-02-23 19:50:58,798 - INFO - [INVESTIGATE] Investigating portal complaint 9e00614b
+2026-02-23 19:50:58,798 - INFO - [INVESTIGATE] Duplicate - referring to original 13dfb5b9
+2026-02-23 19:50:58,798 - INFO - [INTAKE] Processing complaint 19bd085a
+2026-02-23 19:50:58,798 - INFO - [INTAKE] Text: Storm activity correlates with electrical anomalies...
+2026-02-23 19:50:58,798 - INFO - [INTAKE] ✓ Categorized as: environmental
+2026-02-23 19:50:58,798 - INFO - [VALIDATE] Validating environmental complaint 19bd085a
+2026-02-23 19:50:58,798 - INFO - [VALIDATE] ✓ Validation passed: Valid environmental complaint with electrical, weather reference
+2026-02-23 19:50:58,798 - INFO - [INVESTIGATE] Investigating environmental complaint 19bd085a
+2026-02-23 19:50:58,798 - INFO - [INVESTIGATE] ✓ Evidence gathered (775 chars)
+2026-02-23 19:50:58,798 - INFO - [INTAKE] Processing complaint 7a628ec2
+2026-02-23 19:50:58,798 - INFO - [INTAKE] Text: Portal opens at different times in Hawkins Lab...
+2026-02-23 19:50:58,798 - INFO - [INTAKE] ✓ Categorized as: portal
+2026-02-23 19:50:58,798 - INFO - [VALIDATE] Validating portal complaint 7a628ec2
+2026-02-23 19:50:58,798 - INFO - [VALIDATE] ✓ Validation passed: Valid portal complaint with location reference and timing reference
+2026-02-23 19:50:58,798 - INFO - [INVESTIGATE] Investigating portal complaint 7a628ec2
+2026-02-23 19:50:58,798 - INFO - [INVESTIGATE] ✓ Evidence gathered (702 chars)
+2026-02-23 19:50:58,798 - INFO - [RESOLVE] Applying resolution for portal complaint 7a628ec2
+2026-02-23 19:50:58,798 - INFO - [RESOLVE] ✓ Resolution applied (effectiveness: high)
+2026-02-23 19:50:58,798 - INFO - [INTAKE] Processing complaint e80fc7df
+2026-02-23 19:50:58,798 - INFO - [INTAKE] Text: Demogorgons work together sometimes but fight over food...
+2026-02-23 19:50:58,798 - INFO - [INTAKE] ✓ Categorized as: monster
+2026-02-23 19:50:58,798 - INFO - [VALIDATE] Validating monster complaint e80fc7df
+2026-02-23 19:50:58,798 - INFO - [VALIDATE] ✓ Validation passed: Valid monster complaint with behavioral description
+2026-02-23 19:50:58,798 - INFO - [INVESTIGATE] Investigating monster complaint e80fc7df
+2026-02-23 19:50:58,798 - INFO - [INVESTIGATE] ✓ Evidence gathered (749 chars)
+2026-02-23 19:50:58,798 - INFO - [RESOLVE] Applying resolution for monster complaint e80fc7df
+2026-02-23 19:50:58,798 - INFO - [RESOLVE] ✓ Resolution applied (effectiveness: medium)
+2026-02-23 19:50:58,799 - INFO - [INTAKE] Processing complaint 2e1994cf
+2026-02-23 19:50:58,799 - INFO - [INTAKE] Text: El can move things but can't lift heavy objects...
+2026-02-23 19:50:58,799 - INFO - [INTAKE] ✓ Categorized as: psychic
+2026-02-23 19:50:58,799 - INFO - [VALIDATE] Validating psychic complaint 2e1994cf
+2026-02-23 19:50:58,799 - INFO - [VALIDATE] ✓ Validation passed: Valid psychic complaint with ability and limitation reference
+2026-02-23 19:50:58,799 - INFO - [INVESTIGATE] Investigating psychic complaint 2e1994cf
+2026-02-23 19:50:58,799 - INFO - [INVESTIGATE] ✓ Evidence gathered (721 chars)
+2026-02-23 19:50:58,799 - INFO - [RESOLVE] Applying resolution for psychic complaint 2e1994cf
+2026-02-23 19:50:58,799 - INFO - [RESOLVE] ✓ Resolution applied (effectiveness: medium)
+2026-02-23 19:50:58,799 - INFO - [INTAKE] Processing complaint c2fff590
+2026-02-23 19:50:58,799 - INFO - [INTAKE] Text: Power lines flicker when creatures appear...
+2026-02-23 19:50:58,799 - INFO - [INTAKE] ✓ Categorized as: environmental
+2026-02-23 19:50:58,799 - INFO - [VALIDATE] Validating environmental complaint c2fff590
+2026-02-23 19:50:58,799 - INFO - [VALIDATE] ✓ Validation passed: Valid environmental complaint with electrical, physical phenomenon reference
+2026-02-23 19:50:58,799 - INFO - [INVESTIGATE] Investigating environmental complaint c2fff590
+2026-02-23 19:50:58,799 - INFO - [INVESTIGATE] ✓ Evidence gathered (775 chars)
+2026-02-23 19:50:58,799 - INFO - [RESOLVE] Applying resolution for environmental complaint c2fff590
+2026-02-23 19:50:58,799 - INFO - [RESOLVE] ✓ Resolution applied (effectiveness: low)
+2026-02-23 19:50:58,799 - WARNING - [RESOLVE] ⚠️  Escalation to specialist team required
+2026-02-23 19:50:58,799 - INFO - [INTAKE] Processing complaint 90a55523
+2026-02-23 19:50:58,799 - INFO - [INTAKE] Text: Portal timing is unpredictable at Hawkins Lab...
+2026-02-23 19:50:58,799 - INFO - [INTAKE] ✓ Categorized as: portal
+2026-02-23 19:50:58,799 - INFO - [VALIDATE] Validating portal complaint 90a55523
+2026-02-23 19:50:58,799 - INFO - [VALIDATE] ✓ Validation passed: Valid portal complaint with location reference and timing reference
+2026-02-23 19:50:58,799 - INFO - [INVESTIGATE] Investigating portal complaint 90a55523
+2026-02-23 19:50:58,799 - INFO - [INVESTIGATE] ✓ Evidence gathered (702 chars)
+2026-02-23 19:50:58,799 - INFO - [RESOLVE] Applying resolution for portal complaint 90a55523
+2026-02-23 19:50:58,799 - INFO - [RESOLVE] ✓ Resolution applied (effectiveness: high)
+2026-02-23 19:50:58,799 - INFO - [CLOSE] Closing complaint 90a55523
+2026-02-23 19:50:58,799 - INFO - [CLOSE] ✓ Complaint closed
+2026-02-23 19:50:58,799 - INFO - [CLOSE]   Category: portal
+2026-02-23 19:50:58,800 - INFO - [CLOSE]   Outcome: closed
+2026-02-23 19:50:58,800 - INFO - [CLOSE]   Customer satisfaction: satisfied
+2026-02-23 19:50:58,800 - INFO - [CLOSE]   Timestamp: 2026-02-23 19:50:58
+2026-02-23 19:50:58,800 - INFO - [CLOSE] Full workflow path: intake → validate → investigate → resolve → close
+2026-02-23 19:50:58,800 - INFO - [INTAKE] Processing complaint 318e4e3a
+2026-02-23 19:50:58,800 - INFO - [INTAKE] Text: There's a portal...
+2026-02-23 19:50:58,800 - INFO - [INTAKE] ✓ Categorized as: portal
+2026-02-23 19:50:58,800 - INFO - [VALIDATE] Validating portal complaint 318e4e3a
+2026-02-23 19:50:58,800 - WARNING - [VALIDATE] ✗ Validation failed: Portal complaint lacks specific location or timing information
+2026-02-23 19:50:58,800 - INFO - [INVESTIGATE] Investigating portal complaint 318e4e3a
+2026-02-23 19:50:58,800 - WARNING - [INVESTIGATE] Skipped - complaint failed validation
+2026-02-23 19:50:58,800 - INFO - [RESOLVE] Applying resolution for portal complaint 318e4e3a
+2026-02-23 19:50:58,800 - WARNING - [RESOLVE] Skipped - complaint was rejected
+2026-02-23 19:50:58,800 - INFO - [CLOSE] Closing complaint 318e4e3a
+2026-02-23 19:50:58,800 - INFO - [CLOSE] ✓ Complaint closed
+2026-02-23 19:50:58,800 - INFO - [CLOSE]   Category: portal
+2026-02-23 19:50:58,800 - INFO - [CLOSE]   Outcome: closed-rejected
+2026-02-23 19:50:58,802 - INFO - [CLOSE]   Customer satisfaction: N/A (complaint not resolved)
+2026-02-23 19:50:58,802 - INFO - [CLOSE]   Timestamp: 2026-02-23 19:50:58
+2026-02-23 19:50:58,802 - INFO - [CLOSE] Full workflow path: intake → validate → investigate → resolve → close
+2026-02-23 19:50:58,802 - INFO - [INTAKE] Processing complaint bc358eba
+2026-02-23 19:50:58,802 - INFO - [INTAKE] Text: Random complaint about coffee...
+2026-02-23 19:50:58,802 - INFO - [INTAKE] ✓ Categorized as: other
+2026-02-23 19:50:58,802 - INFO - [VALIDATE] Validating other complaint bc358eba
+2026-02-23 19:50:58,802 - WARNING - [VALIDATE] ⚠️  OTHER category - escalating for manual review
+2026-02-23 19:50:58,802 - INFO - [INTAKE] Processing complaint 48fb140c
+2026-02-23 19:50:58,802 - INFO - [INTAKE] Text: Portal behavior is strange in the lab...
+2026-02-23 19:50:58,802 - INFO - [INTAKE] ✓ Categorized as: portal
+2026-02-23 19:50:58,802 - INFO - [VALIDATE] Validating portal complaint 48fb140c
+2026-02-23 19:50:58,802 - INFO - [VALIDATE] ✓ Validation passed: Valid portal complaint with location reference
+2026-02-23 19:50:58,802 - INFO - [INVESTIGATE] Investigating portal complaint 48fb140c
+2026-02-23 19:50:58,802 - INFO - [INVESTIGATE] ✓ Evidence gathered (702 chars)
+2026-02-23 19:50:58,802 - INFO - [RESOLVE] Applying resolution for portal complaint 48fb140c
+2026-02-23 19:50:58,802 - INFO - [RESOLVE] ✓ Resolution applied (effectiveness: high)
+2026-02-23 19:50:58,802 - INFO - [CLOSE] Closing complaint 48fb140c
+2026-02-23 19:50:58,802 - INFO - [CLOSE] ✓ Complaint closed
+2026-02-23 19:50:58,802 - INFO - [CLOSE]   Category: portal
+2026-02-23 19:50:58,802 - INFO - [CLOSE]   Outcome: closed
+2026-02-23 19:50:58,802 - INFO - [CLOSE]   Customer satisfaction: satisfied
+2026-02-23 19:50:58,803 - INFO - [CLOSE]   Timestamp: 2026-02-23 19:50:58
+2026-02-23 19:50:58,803 - INFO - [CLOSE] Full workflow path: intake → validate → investigate → resolve → close
+2026-02-23 19:50:58,803 - INFO - [INTAKE] Processing complaint 7bf3716e
+2026-02-23 19:50:58,803 - INFO - [INTAKE] Text: Portal behavior is strange in the lab...
+2026-02-23 19:50:58,803 - INFO - Duplicate detected! Links to complaint 48fb140c from 0 days ago
+2026-02-23 19:50:58,803 - INFO - [INTAKE] ⚠️  Duplicate detected - linked to 48fb140c
+2026-02-23 19:50:58,803 - INFO - [INTAKE] ✓ Categorized as: portal
+2026-02-23 19:50:58,803 - INFO - [VALIDATE] Validating portal complaint 7bf3716e
+2026-02-23 19:50:58,803 - INFO - [VALIDATE] ⚠️  Duplicate - skipping full validation
+2026-02-23 19:50:58,803 - INFO - [INVESTIGATE] Investigating portal complaint 7bf3716e
+2026-02-23 19:50:58,803 - INFO - [INVESTIGATE] Duplicate - referring to original 48fb140c
+2026-02-23 19:50:58,803 - INFO - [RESOLVE] Applying resolution for portal complaint 7bf3716e
+2026-02-23 19:50:58,803 - INFO - [RESOLVE] Duplicate - referring to original resolution
+2026-02-23 19:50:58,803 - INFO - [CLOSE] Closing complaint 7bf3716e
+2026-02-23 19:50:58,803 - INFO - [CLOSE] ✓ Complaint closed
+2026-02-23 19:50:58,803 - INFO - [CLOSE]   Category: portal
+2026-02-23 19:50:58,803 - INFO - [CLOSE]   Outcome: closed-duplicate
+2026-02-23 19:50:58,803 - INFO - [CLOSE]   Customer satisfaction: satisfied
+2026-02-23 19:50:58,803 - INFO - [CLOSE]   Timestamp: 2026-02-23 19:50:58
+2026-02-23 19:50:58,803 - INFO - [CLOSE] Full workflow path: intake → validate → investigate → resolve → close
+2026-02-23 19:50:58,803 - INFO - [INTAKE] Processing complaint 7be59b2a
+2026-02-23 19:50:58,803 - INFO - [INTAKE] Text: Portal opens randomly at different times...
+2026-02-23 19:50:58,803 - INFO - [INTAKE] ✓ Categorized as: portal
+2026-02-23 19:50:58,803 - INFO - [VALIDATE] Validating portal complaint 7be59b2a
+2026-02-23 19:50:58,803 - INFO - [VALIDATE] ✓ Validation passed: Valid portal complaint with location reference and timing reference
+2026-02-23 19:50:58,803 - INFO - [INVESTIGATE] Investigating portal complaint 7be59b2a
+2026-02-23 19:50:58,804 - INFO - [INVESTIGATE] ✓ Evidence gathered (702 chars)
+2026-02-23 19:50:58,804 - INFO - [RESOLVE] Applying resolution for portal complaint 7be59b2a
+2026-02-23 19:50:58,804 - INFO - [RESOLVE] ✓ Resolution applied (effectiveness: high)
+2026-02-23 19:50:58,804 - INFO - [CLOSE] Closing complaint 7be59b2a
+2026-02-23 19:50:58,804 - INFO - [CLOSE] ✓ Complaint closed
+2026-02-23 19:50:58,804 - INFO - [CLOSE]   Category: portal
+2026-02-23 19:50:58,804 - INFO - [CLOSE]   Outcome: closed
+2026-02-23 19:50:58,804 - INFO - [CLOSE]   Customer satisfaction: satisfied
+2026-02-23 19:50:58,804 - INFO - [CLOSE]   Timestamp: 2026-02-23 19:50:58
+2026-02-23 19:50:58,805 - INFO - [CLOSE] Full workflow path: intake → validate → investigate → resolve → close
+2026-02-23 19:50:58,805 - INFO - [INTAKE] Processing complaint b033315a
+2026-02-23 19:50:58,805 - INFO - [INTAKE] Text: Electrical problems near power lines...
+2026-02-23 19:50:58,805 - INFO - [INTAKE] ✓ Categorized as: environmental
+2026-02-23 19:50:58,805 - INFO - [VALIDATE] Validating environmental complaint b033315a
+2026-02-23 19:50:58,805 - INFO - [VALIDATE] ✓ Validation passed: Valid environmental complaint with electrical reference
+2026-02-23 19:50:58,805 - INFO - [INVESTIGATE] Investigating environmental complaint b033315a
+2026-02-23 19:50:58,805 - INFO - [INVESTIGATE] ✓ Evidence gathered (775 chars)
+2026-02-23 19:50:58,805 - INFO - [RESOLVE] Applying resolution for environmental complaint b033315a
+2026-02-23 19:50:58,805 - INFO - [RESOLVE] ✓ Resolution applied (effectiveness: low)
+2026-02-23 19:50:58,805 - WARNING - [RESOLVE] ⚠️  Escalation to specialist team required
+2026-02-23 19:50:58,805 - INFO - [CLOSE] Closing complaint b033315a
+2026-02-23 19:50:58,805 - INFO - [CLOSE] ✓ Complaint closed
+2026-02-23 19:50:58,805 - INFO - [CLOSE]   Category: environmental
+2026-02-23 19:50:58,805 - INFO - [CLOSE]   Outcome: closed
+2026-02-23 19:50:58,805 - INFO - [CLOSE]   Customer satisfaction: requires follow-up
+2026-02-23 19:50:58,805 - INFO - [CLOSE]   Timestamp: 2026-02-23 19:50:58
+2026-02-23 19:50:58,805 - WARNING - [CLOSE] ⚠️  Low effectiveness rating - 30-day follow-up required
+2026-02-23 19:50:58,806 - INFO - [CLOSE] Full workflow path: intake → validate → investigate → resolve → close
+2026-02-23 19:54:37,733 - INFO - NormalObjects LangGraph System - Initialization
+2026-02-23 19:54:37,734 - INFO - ============================================================
+2026-02-23 19:54:37,734 - INFO - Duplicate detected! Links to complaint test-001 from 0 days ago
+2026-02-23 19:54:37,734 - INFO - [INTAKE] Processing complaint e501da86
+2026-02-23 19:54:37,734 - INFO - [INTAKE] Text: Portal opens at different times each day...
+2026-02-23 19:54:37,734 - INFO - [INTAKE] ✓ Categorized as: portal
+2026-02-23 19:54:37,734 - INFO - [INTAKE] Processing complaint d730e906
+2026-02-23 19:54:37,734 - INFO - [INTAKE] Text: Demogorgons sometimes work together...
+2026-02-23 19:54:37,734 - INFO - [INTAKE] ✓ Categorized as: monster
+2026-02-23 19:54:37,734 - INFO - [INTAKE] Processing complaint 6fd1f0dd
+2026-02-23 19:54:37,734 - INFO - [INTAKE] Text: El can move things with her mind but can't lift rocks...
+2026-02-23 19:54:37,734 - INFO - [INTAKE] ✓ Categorized as: psychic
+2026-02-23 19:54:37,734 - INFO - [INTAKE] Processing complaint 49899239
+2026-02-23 19:54:37,734 - INFO - [INTAKE] Text: Power lines react strangely with creatures...
+2026-02-23 19:54:37,734 - INFO - [INTAKE] ✓ Categorized as: environmental
+2026-02-23 19:54:37,734 - INFO - [INTAKE] Processing complaint 0d4bdbed
+2026-02-23 19:54:37,734 - INFO - [INTAKE] Text: This is a random complaint about nothing specific...
+2026-02-23 19:54:37,734 - INFO - [INTAKE] ✓ Categorized as: other
+2026-02-23 19:54:37,735 - INFO - [INTAKE] Processing complaint fc5fb411
+2026-02-23 19:54:37,735 - INFO - [INTAKE] Text: Portal opens at random times in Hawkins Lab...
+2026-02-23 19:54:37,735 - INFO - [INTAKE] ✓ Categorized as: portal
+2026-02-23 19:54:37,735 - INFO - [INTAKE] Processing complaint 5eb767c6
+2026-02-23 19:54:37,735 - INFO - [INTAKE] Text: Portal opens at random times in Hawkins Lab...
+2026-02-23 19:54:37,735 - INFO - Duplicate detected! Links to complaint fc5fb411 from 0 days ago
+2026-02-23 19:54:37,735 - INFO - [INTAKE] ⚠️  Duplicate detected - linked to fc5fb411
+2026-02-23 19:54:37,735 - INFO - [INTAKE] ✓ Categorized as: portal
+2026-02-23 19:54:37,735 - INFO - [INTAKE] Processing complaint 9d5647f8
+2026-02-23 19:54:37,735 - INFO - [INTAKE] Text: Portal opens at different times each day in Hawkins Lab...
+2026-02-23 19:54:37,735 - INFO - [INTAKE] ✓ Categorized as: portal
+2026-02-23 19:54:37,735 - INFO - [VALIDATE] Validating portal complaint 9d5647f8
+2026-02-23 19:54:37,735 - INFO - [VALIDATE] ✓ Validation passed: Valid portal complaint with location reference and timing reference
+2026-02-23 19:54:37,736 - INFO - [INTAKE] Processing complaint 46b0c9d9
+2026-02-23 19:54:37,736 - INFO - [INTAKE] Text: Demogorgons sometimes work together and sometimes fight...
+2026-02-23 19:54:37,736 - INFO - [INTAKE] ✓ Categorized as: monster
+2026-02-23 19:54:37,736 - INFO - [VALIDATE] Validating monster complaint 46b0c9d9
+2026-02-23 19:54:37,736 - INFO - [VALIDATE] ✓ Validation passed: Valid monster complaint with behavioral description
+2026-02-23 19:54:37,736 - INFO - [INTAKE] Processing complaint 20f7af52
+2026-02-23 19:54:37,736 - INFO - [INTAKE] Text: El can move things with her mind but can't lift heavy rocks...
+2026-02-23 19:54:37,736 - INFO - [INTAKE] ✓ Categorized as: psychic
+2026-02-23 19:54:37,736 - INFO - [VALIDATE] Validating psychic complaint 20f7af52
+2026-02-23 19:54:37,736 - INFO - [VALIDATE] ✓ Validation passed: Valid psychic complaint with ability and limitation reference
+2026-02-23 19:54:37,737 - INFO - [INTAKE] Processing complaint 2f15929c
+2026-02-23 19:54:37,737 - INFO - [INTAKE] Text: Power lines flicker when creatures are nearby...
+2026-02-23 19:54:37,737 - INFO - [INTAKE] ✓ Categorized as: environmental
+2026-02-23 19:54:37,737 - INFO - [VALIDATE] Validating environmental complaint 2f15929c
+2026-02-23 19:54:37,737 - INFO - [VALIDATE] ✓ Validation passed: Valid environmental complaint with electrical, physical phenomenon reference
+2026-02-23 19:54:37,737 - INFO - [INTAKE] Processing complaint 2045cb9d
+2026-02-23 19:54:37,737 - INFO - [INTAKE] Text: There's a portal...
+2026-02-23 19:54:37,737 - INFO - [INTAKE] ✓ Categorized as: portal
+2026-02-23 19:54:37,737 - INFO - [VALIDATE] Validating portal complaint 2045cb9d
+2026-02-23 19:54:37,737 - WARNING - [VALIDATE] ✗ Validation failed: Portal complaint lacks specific location or timing information
+2026-02-23 19:54:37,737 - INFO - [INTAKE] Processing complaint d19f171f
+2026-02-23 19:54:37,737 - INFO - [INTAKE] Text: I saw a monster...
+2026-02-23 19:54:37,737 - INFO - [INTAKE] ✓ Categorized as: monster
+2026-02-23 19:54:37,737 - INFO - [VALIDATE] Validating monster complaint d19f171f
+2026-02-23 19:54:37,738 - WARNING - [VALIDATE] ✗ Validation failed: Monster complaint lacks creature behavior or interaction description
+2026-02-23 19:54:37,738 - INFO - [INTAKE] Processing complaint 515fcfd4
+2026-02-23 19:54:37,738 - INFO - [INTAKE] Text: Psychic powers exist...
+2026-02-23 19:54:37,738 - INFO - [INTAKE] ✓ Categorized as: psychic
+2026-02-23 19:54:37,738 - INFO - [VALIDATE] Validating psychic complaint 515fcfd4
+2026-02-23 19:54:37,738 - WARNING - [VALIDATE] ✗ Validation failed: Psychic complaint mentions ability but lacks limitation details
+2026-02-23 19:54:37,738 - INFO - [INTAKE] Processing complaint a824d08e
+2026-02-23 19:54:37,738 - INFO - [INTAKE] Text: This is about something completely random...
+2026-02-23 19:54:37,738 - INFO - [INTAKE] ✓ Categorized as: other
+2026-02-23 19:54:37,738 - INFO - [VALIDATE] Validating other complaint a824d08e
+2026-02-23 19:54:37,738 - WARNING - [VALIDATE] ⚠️  OTHER category - escalating for manual review
+2026-02-23 19:54:37,738 - INFO - [INTAKE] Processing complaint 306d37e6
+2026-02-23 19:54:37,738 - INFO - [INTAKE] Text: Random complaint about coffee...
+2026-02-23 19:54:37,738 - INFO - [INTAKE] ✓ Categorized as: other
+2026-02-23 19:54:37,738 - INFO - [VALIDATE] Validating other complaint 306d37e6
+2026-02-23 19:54:37,738 - WARNING - [VALIDATE] ⚠️  OTHER category - escalating for manual review
+2026-02-23 19:54:37,738 - INFO - [INTAKE] Processing complaint 6add9a8e
+2026-02-23 19:54:37,738 - INFO - [INTAKE] Text: Portal timing is weird in the lab...
+2026-02-23 19:54:37,738 - INFO - [INTAKE] ✓ Categorized as: portal
+2026-02-23 19:54:37,738 - INFO - [VALIDATE] Validating portal complaint 6add9a8e
+2026-02-23 19:54:37,738 - INFO - [VALIDATE] ✓ Validation passed: Valid portal complaint with location reference
+2026-02-23 19:54:37,738 - INFO - [INTAKE] Processing complaint 7cccd455
+2026-02-23 19:54:37,738 - INFO - [INTAKE] Text: Portal timing is weird in the lab...
+2026-02-23 19:54:37,738 - INFO - Duplicate detected! Links to complaint 6add9a8e from 0 days ago
+2026-02-23 19:54:37,738 - INFO - [INTAKE] ⚠️  Duplicate detected - linked to 6add9a8e
+2026-02-23 19:54:37,738 - INFO - [INTAKE] ✓ Categorized as: portal
+2026-02-23 19:54:37,739 - INFO - [VALIDATE] Validating portal complaint 7cccd455
+2026-02-23 19:54:37,739 - INFO - [VALIDATE] ⚠️  Duplicate - skipping full validation
+2026-02-23 19:54:37,739 - INFO - [INTAKE] Processing complaint cfec594f
+2026-02-23 19:54:37,739 - INFO - [INTAKE] Text: Portal opens randomly in Hawkins Lab at midnight...
+2026-02-23 19:54:37,739 - INFO - [INTAKE] ✓ Categorized as: portal
+2026-02-23 19:54:37,739 - INFO - [VALIDATE] Validating portal complaint cfec594f
+2026-02-23 19:54:37,739 - INFO - [VALIDATE] ✓ Validation passed: Valid portal complaint with location reference and timing reference
+2026-02-23 19:54:37,739 - INFO - [INVESTIGATE] Investigating portal complaint cfec594f
+2026-02-23 19:54:37,739 - INFO - [INVESTIGATE] ✓ Evidence gathered (702 chars)
+2026-02-23 19:54:37,739 - INFO - [INTAKE] Processing complaint 134a4107
+2026-02-23 19:54:37,739 - INFO - [INTAKE] Text: Demogorgons work together when hunting but fight over food...
+2026-02-23 19:54:37,739 - INFO - [INTAKE] ✓ Categorized as: monster
+2026-02-23 19:54:37,739 - INFO - [VALIDATE] Validating monster complaint 134a4107
+2026-02-23 19:54:37,739 - INFO - [VALIDATE] ✓ Validation passed: Valid monster complaint with behavioral description
+2026-02-23 19:54:37,739 - INFO - [INVESTIGATE] Investigating monster complaint 134a4107
+2026-02-23 19:54:37,739 - INFO - [INVESTIGATE] ✓ Evidence gathered (749 chars)
+2026-02-23 19:54:37,739 - INFO - [INTAKE] Processing complaint eeaebb33
+2026-02-23 19:54:37,739 - INFO - [INTAKE] Text: El can move small objects but can't lift anything heavy...
+2026-02-23 19:54:37,739 - INFO - [INTAKE] ✓ Categorized as: psychic
+2026-02-23 19:54:37,739 - INFO - [VALIDATE] Validating psychic complaint eeaebb33
+2026-02-23 19:54:37,739 - INFO - [VALIDATE] ✓ Validation passed: Valid psychic complaint with ability and limitation reference
+2026-02-23 19:54:37,739 - INFO - [INVESTIGATE] Investigating psychic complaint eeaebb33
+2026-02-23 19:54:37,739 - INFO - [INVESTIGATE] ✓ Evidence gathered (721 chars)
+2026-02-23 19:54:37,739 - INFO - [INTAKE] Processing complaint 440c7355
+2026-02-23 19:54:37,739 - INFO - [INTAKE] Text: Power lines flicker whenever creatures appear nearby...
+2026-02-23 19:54:37,740 - INFO - [INTAKE] ✓ Categorized as: environmental
+2026-02-23 19:54:37,740 - INFO - [VALIDATE] Validating environmental complaint 440c7355
+2026-02-23 19:54:37,740 - INFO - [VALIDATE] ✓ Validation passed: Valid environmental complaint with electrical, physical phenomenon reference
+2026-02-23 19:54:37,740 - INFO - [INVESTIGATE] Investigating environmental complaint 440c7355
+2026-02-23 19:54:37,740 - INFO - [INVESTIGATE] ✓ Evidence gathered (775 chars)
+2026-02-23 19:54:37,740 - INFO - [INTAKE] Processing complaint 4f71b172
+2026-02-23 19:54:37,740 - INFO - [INTAKE] Text: There's a portal...
+2026-02-23 19:54:37,740 - INFO - [INTAKE] ✓ Categorized as: portal
+2026-02-23 19:54:37,740 - INFO - [VALIDATE] Validating portal complaint 4f71b172
+2026-02-23 19:54:37,740 - WARNING - [VALIDATE] ✗ Validation failed: Portal complaint lacks specific location or timing information
+2026-02-23 19:54:37,740 - INFO - [INVESTIGATE] Investigating portal complaint 4f71b172
+2026-02-23 19:54:37,740 - WARNING - [INVESTIGATE] Skipped - complaint failed validation
+2026-02-23 19:54:37,740 - INFO - [INTAKE] Processing complaint 4afb9089
+2026-02-23 19:54:37,740 - INFO - [INTAKE] Text: Portal timing weird in the lab at night...
+2026-02-23 19:54:37,740 - INFO - [INTAKE] ✓ Categorized as: portal
+2026-02-23 19:54:37,740 - INFO - [VALIDATE] Validating portal complaint 4afb9089
+2026-02-23 19:54:37,740 - INFO - [VALIDATE] ✓ Validation passed: Valid portal complaint with location reference and timing reference
+2026-02-23 19:54:37,740 - INFO - [INVESTIGATE] Investigating portal complaint 4afb9089
+2026-02-23 19:54:37,740 - INFO - [INVESTIGATE] ✓ Evidence gathered (702 chars)
+2026-02-23 19:54:37,740 - INFO - [INTAKE] Processing complaint da64c8d3
+2026-02-23 19:54:37,740 - INFO - [INTAKE] Text: Portal timing weird in the lab at night...
+2026-02-23 19:54:37,740 - INFO - Duplicate detected! Links to complaint 4afb9089 from 0 days ago
+2026-02-23 19:54:37,740 - INFO - [INTAKE] ⚠️  Duplicate detected - linked to 4afb9089
+2026-02-23 19:54:37,740 - INFO - [INTAKE] ✓ Categorized as: portal
+2026-02-23 19:54:37,740 - INFO - [VALIDATE] Validating portal complaint da64c8d3
+2026-02-23 19:54:37,740 - INFO - [VALIDATE] ⚠️  Duplicate - skipping full validation
+2026-02-23 19:54:37,740 - INFO - [INVESTIGATE] Investigating portal complaint da64c8d3
+2026-02-23 19:54:37,740 - INFO - [INVESTIGATE] Duplicate - referring to original 4afb9089
+2026-02-23 19:54:37,741 - INFO - [INTAKE] Processing complaint 89ff7939
+2026-02-23 19:54:37,741 - INFO - [INTAKE] Text: Storm activity correlates with electrical anomalies...
+2026-02-23 19:54:37,741 - INFO - [INTAKE] ✓ Categorized as: environmental
+2026-02-23 19:54:37,741 - INFO - [VALIDATE] Validating environmental complaint 89ff7939
+2026-02-23 19:54:37,741 - INFO - [VALIDATE] ✓ Validation passed: Valid environmental complaint with electrical, weather reference
+2026-02-23 19:54:37,741 - INFO - [INVESTIGATE] Investigating environmental complaint 89ff7939
+2026-02-23 19:54:37,741 - INFO - [INVESTIGATE] ✓ Evidence gathered (775 chars)
+2026-02-23 19:54:37,741 - INFO - [INTAKE] Processing complaint f4456855
+2026-02-23 19:54:37,741 - INFO - [INTAKE] Text: Portal opens at different times in Hawkins Lab...
+2026-02-23 19:54:37,741 - INFO - [INTAKE] ✓ Categorized as: portal
+2026-02-23 19:54:37,741 - INFO - [VALIDATE] Validating portal complaint f4456855
+2026-02-23 19:54:37,741 - INFO - [VALIDATE] ✓ Validation passed: Valid portal complaint with location reference and timing reference
+2026-02-23 19:54:37,741 - INFO - [INVESTIGATE] Investigating portal complaint f4456855
+2026-02-23 19:54:37,741 - INFO - [INVESTIGATE] ✓ Evidence gathered (702 chars)
+2026-02-23 19:54:37,741 - INFO - [RESOLVE] Applying resolution for portal complaint f4456855
+2026-02-23 19:54:37,741 - INFO - [RESOLVE] ✓ Resolution applied (effectiveness: high)
+2026-02-23 19:54:37,741 - INFO - [INTAKE] Processing complaint d04c53f2
+2026-02-23 19:54:37,741 - INFO - [INTAKE] Text: Demogorgons work together sometimes but fight over food...
+2026-02-23 19:54:37,741 - INFO - [INTAKE] ✓ Categorized as: monster
+2026-02-23 19:54:37,741 - INFO - [VALIDATE] Validating monster complaint d04c53f2
+2026-02-23 19:54:37,741 - INFO - [VALIDATE] ✓ Validation passed: Valid monster complaint with behavioral description
+2026-02-23 19:54:37,741 - INFO - [INVESTIGATE] Investigating monster complaint d04c53f2
+2026-02-23 19:54:37,741 - INFO - [INVESTIGATE] ✓ Evidence gathered (749 chars)
+2026-02-23 19:54:37,741 - INFO - [RESOLVE] Applying resolution for monster complaint d04c53f2
+2026-02-23 19:54:37,741 - INFO - [RESOLVE] ✓ Resolution applied (effectiveness: medium)
+2026-02-23 19:54:37,741 - INFO - [INTAKE] Processing complaint 7b3d6f98
+2026-02-23 19:54:37,742 - INFO - [INTAKE] Text: El can move things but can't lift heavy objects...
+2026-02-23 19:54:37,742 - INFO - [INTAKE] ✓ Categorized as: psychic
+2026-02-23 19:54:37,742 - INFO - [VALIDATE] Validating psychic complaint 7b3d6f98
+2026-02-23 19:54:37,742 - INFO - [VALIDATE] ✓ Validation passed: Valid psychic complaint with ability and limitation reference
+2026-02-23 19:54:37,742 - INFO - [INVESTIGATE] Investigating psychic complaint 7b3d6f98
+2026-02-23 19:54:37,742 - INFO - [INVESTIGATE] ✓ Evidence gathered (721 chars)
+2026-02-23 19:54:37,742 - INFO - [RESOLVE] Applying resolution for psychic complaint 7b3d6f98
+2026-02-23 19:54:37,742 - INFO - [RESOLVE] ✓ Resolution applied (effectiveness: medium)
+2026-02-23 19:54:37,742 - INFO - [INTAKE] Processing complaint e1bd20ab
+2026-02-23 19:54:37,742 - INFO - [INTAKE] Text: Power lines flicker when creatures appear...
+2026-02-23 19:54:37,742 - INFO - [INTAKE] ✓ Categorized as: environmental
+2026-02-23 19:54:37,742 - INFO - [VALIDATE] Validating environmental complaint e1bd20ab
+2026-02-23 19:54:37,742 - INFO - [VALIDATE] ✓ Validation passed: Valid environmental complaint with electrical, physical phenomenon reference
+2026-02-23 19:54:37,742 - INFO - [INVESTIGATE] Investigating environmental complaint e1bd20ab
+2026-02-23 19:54:37,742 - INFO - [INVESTIGATE] ✓ Evidence gathered (775 chars)
+2026-02-23 19:54:37,742 - INFO - [RESOLVE] Applying resolution for environmental complaint e1bd20ab
+2026-02-23 19:54:37,742 - INFO - [RESOLVE] ✓ Resolution applied (effectiveness: low)
+2026-02-23 19:54:37,742 - WARNING - [RESOLVE] ⚠️  Escalation to specialist team required
+2026-02-23 19:54:37,742 - INFO - [INTAKE] Processing complaint 0cecc649
+2026-02-23 19:54:37,742 - INFO - [INTAKE] Text: Portal timing is unpredictable at Hawkins Lab...
+2026-02-23 19:54:37,742 - INFO - [INTAKE] ✓ Categorized as: portal
+2026-02-23 19:54:37,742 - INFO - [VALIDATE] Validating portal complaint 0cecc649
+2026-02-23 19:54:37,742 - INFO - [VALIDATE] ✓ Validation passed: Valid portal complaint with location reference and timing reference
+2026-02-23 19:54:37,742 - INFO - [INVESTIGATE] Investigating portal complaint 0cecc649
+2026-02-23 19:54:37,742 - INFO - [INVESTIGATE] ✓ Evidence gathered (702 chars)
+2026-02-23 19:54:37,742 - INFO - [RESOLVE] Applying resolution for portal complaint 0cecc649
+2026-02-23 19:54:37,742 - INFO - [RESOLVE] ✓ Resolution applied (effectiveness: high)
+2026-02-23 19:54:37,742 - INFO - [CLOSE] Closing complaint 0cecc649
+2026-02-23 19:54:37,743 - INFO - [CLOSE] ✓ Complaint closed
+2026-02-23 19:54:37,743 - INFO - [CLOSE]   Category: portal
+2026-02-23 19:54:37,743 - INFO - [CLOSE]   Outcome: closed
+2026-02-23 19:54:37,743 - INFO - [CLOSE]   Customer satisfaction: satisfied
+2026-02-23 19:54:37,743 - INFO - [CLOSE]   Timestamp: 2026-02-23 19:54:37
+2026-02-23 19:54:37,743 - INFO - [CLOSE] Full workflow path: intake → validate → investigate → resolve → close
+2026-02-23 19:54:37,743 - INFO - [INTAKE] Processing complaint 8e18bca5
+2026-02-23 19:54:37,743 - INFO - [INTAKE] Text: There's a portal...
+2026-02-23 19:54:37,743 - INFO - [INTAKE] ✓ Categorized as: portal
+2026-02-23 19:54:37,743 - INFO - [VALIDATE] Validating portal complaint 8e18bca5
+2026-02-23 19:54:37,743 - WARNING - [VALIDATE] ✗ Validation failed: Portal complaint lacks specific location or timing information
+2026-02-23 19:54:37,743 - INFO - [INVESTIGATE] Investigating portal complaint 8e18bca5
+2026-02-23 19:54:37,743 - WARNING - [INVESTIGATE] Skipped - complaint failed validation
+2026-02-23 19:54:37,743 - INFO - [RESOLVE] Applying resolution for portal complaint 8e18bca5
+2026-02-23 19:54:37,743 - WARNING - [RESOLVE] Skipped - complaint was rejected
+2026-02-23 19:54:37,743 - INFO - [CLOSE] Closing complaint 8e18bca5
+2026-02-23 19:54:37,743 - INFO - [CLOSE] ✓ Complaint closed
+2026-02-23 19:54:37,743 - INFO - [CLOSE]   Category: portal
+2026-02-23 19:54:37,743 - INFO - [CLOSE]   Outcome: closed-rejected
+2026-02-23 19:54:37,743 - INFO - [CLOSE]   Customer satisfaction: N/A (complaint not resolved)
+2026-02-23 19:54:37,743 - INFO - [CLOSE]   Timestamp: 2026-02-23 19:54:37
+2026-02-23 19:54:37,743 - INFO - [CLOSE] Full workflow path: intake → validate → investigate → resolve → close
+2026-02-23 19:54:37,743 - INFO - [INTAKE] Processing complaint 3f1978e6
+2026-02-23 19:54:37,743 - INFO - [INTAKE] Text: Random complaint about coffee...
+2026-02-23 19:54:37,743 - INFO - [INTAKE] ✓ Categorized as: other
+2026-02-23 19:54:37,743 - INFO - [VALIDATE] Validating other complaint 3f1978e6
+2026-02-23 19:54:37,743 - WARNING - [VALIDATE] ⚠️  OTHER category - escalating for manual review
+2026-02-23 19:54:37,743 - INFO - [INTAKE] Processing complaint fcc0c67c
+2026-02-23 19:54:37,743 - INFO - [INTAKE] Text: Portal behavior is strange in the lab...
+2026-02-23 19:54:37,744 - INFO - [INTAKE] ✓ Categorized as: portal
+2026-02-23 19:54:37,744 - INFO - [VALIDATE] Validating portal complaint fcc0c67c
+2026-02-23 19:54:37,744 - INFO - [VALIDATE] ✓ Validation passed: Valid portal complaint with location reference
+2026-02-23 19:54:37,744 - INFO - [INVESTIGATE] Investigating portal complaint fcc0c67c
+2026-02-23 19:54:37,744 - INFO - [INVESTIGATE] ✓ Evidence gathered (702 chars)
+2026-02-23 19:54:37,744 - INFO - [RESOLVE] Applying resolution for portal complaint fcc0c67c
+2026-02-23 19:54:37,744 - INFO - [RESOLVE] ✓ Resolution applied (effectiveness: high)
+2026-02-23 19:54:37,744 - INFO - [CLOSE] Closing complaint fcc0c67c
+2026-02-23 19:54:37,744 - INFO - [CLOSE] ✓ Complaint closed
+2026-02-23 19:54:37,744 - INFO - [CLOSE]   Category: portal
+2026-02-23 19:54:37,744 - INFO - [CLOSE]   Outcome: closed
+2026-02-23 19:54:37,744 - INFO - [CLOSE]   Customer satisfaction: satisfied
+2026-02-23 19:54:37,744 - INFO - [CLOSE]   Timestamp: 2026-02-23 19:54:37
+2026-02-23 19:54:37,744 - INFO - [CLOSE] Full workflow path: intake → validate → investigate → resolve → close
+2026-02-23 19:54:37,744 - INFO - [INTAKE] Processing complaint 7d7ea67e
+2026-02-23 19:54:37,744 - INFO - [INTAKE] Text: Portal behavior is strange in the lab...
+2026-02-23 19:54:37,744 - INFO - Duplicate detected! Links to complaint fcc0c67c from 0 days ago
+2026-02-23 19:54:37,744 - INFO - [INTAKE] ⚠️  Duplicate detected - linked to fcc0c67c
+2026-02-23 19:54:37,744 - INFO - [INTAKE] ✓ Categorized as: portal
+2026-02-23 19:54:37,744 - INFO - [VALIDATE] Validating portal complaint 7d7ea67e
+2026-02-23 19:54:37,744 - INFO - [VALIDATE] ⚠️  Duplicate - skipping full validation
+2026-02-23 19:54:37,744 - INFO - [INVESTIGATE] Investigating portal complaint 7d7ea67e
+2026-02-23 19:54:37,744 - INFO - [INVESTIGATE] Duplicate - referring to original fcc0c67c
+2026-02-23 19:54:37,744 - INFO - [RESOLVE] Applying resolution for portal complaint 7d7ea67e
+2026-02-23 19:54:37,744 - INFO - [RESOLVE] Duplicate - referring to original resolution
+2026-02-23 19:54:37,744 - INFO - [CLOSE] Closing complaint 7d7ea67e
+2026-02-23 19:54:37,744 - INFO - [CLOSE] ✓ Complaint closed
+2026-02-23 19:54:37,744 - INFO - [CLOSE]   Category: portal
+2026-02-23 19:54:37,744 - INFO - [CLOSE]   Outcome: closed-duplicate
+2026-02-23 19:54:37,745 - INFO - [CLOSE]   Customer satisfaction: satisfied
+2026-02-23 19:54:37,745 - INFO - [CLOSE]   Timestamp: 2026-02-23 19:54:37
+2026-02-23 19:54:37,745 - INFO - [CLOSE] Full workflow path: intake → validate → investigate → resolve → close
+2026-02-23 19:54:37,745 - INFO - [INTAKE] Processing complaint 255dcf79
+2026-02-23 19:54:37,745 - INFO - [INTAKE] Text: Portal opens randomly at different times...
+2026-02-23 19:54:37,745 - INFO - [INTAKE] ✓ Categorized as: portal
+2026-02-23 19:54:37,745 - INFO - [VALIDATE] Validating portal complaint 255dcf79
+2026-02-23 19:54:37,745 - INFO - [VALIDATE] ✓ Validation passed: Valid portal complaint with location reference and timing reference
+2026-02-23 19:54:37,745 - INFO - [INVESTIGATE] Investigating portal complaint 255dcf79
+2026-02-23 19:54:37,745 - INFO - [INVESTIGATE] ✓ Evidence gathered (702 chars)
+2026-02-23 19:54:37,745 - INFO - [RESOLVE] Applying resolution for portal complaint 255dcf79
+2026-02-23 19:54:37,745 - INFO - [RESOLVE] ✓ Resolution applied (effectiveness: high)
+2026-02-23 19:54:37,745 - INFO - [CLOSE] Closing complaint 255dcf79
+2026-02-23 19:54:37,745 - INFO - [CLOSE] ✓ Complaint closed
+2026-02-23 19:54:37,745 - INFO - [CLOSE]   Category: portal
+2026-02-23 19:54:37,745 - INFO - [CLOSE]   Outcome: closed
+2026-02-23 19:54:37,745 - INFO - [CLOSE]   Customer satisfaction: satisfied
+2026-02-23 19:54:37,745 - INFO - [CLOSE]   Timestamp: 2026-02-23 19:54:37
+2026-02-23 19:54:37,745 - INFO - [CLOSE] Full workflow path: intake → validate → investigate → resolve → close
+2026-02-23 19:54:37,745 - INFO - [INTAKE] Processing complaint 4258424e
+2026-02-23 19:54:37,745 - INFO - [INTAKE] Text: Electrical problems near power lines...
+2026-02-23 19:54:37,745 - INFO - [INTAKE] ✓ Categorized as: environmental
+2026-02-23 19:54:37,745 - INFO - [VALIDATE] Validating environmental complaint 4258424e
+2026-02-23 19:54:37,745 - INFO - [VALIDATE] ✓ Validation passed: Valid environmental complaint with electrical reference
+2026-02-23 19:54:37,745 - INFO - [INVESTIGATE] Investigating environmental complaint 4258424e
+2026-02-23 19:54:37,745 - INFO - [INVESTIGATE] ✓ Evidence gathered (775 chars)
+2026-02-23 19:54:37,745 - INFO - [RESOLVE] Applying resolution for environmental complaint 4258424e
+2026-02-23 19:54:37,745 - INFO - [RESOLVE] ✓ Resolution applied (effectiveness: low)
+2026-02-23 19:54:37,745 - WARNING - [RESOLVE] ⚠️  Escalation to specialist team required
+2026-02-23 19:54:37,746 - INFO - [CLOSE] Closing complaint 4258424e
+2026-02-23 19:54:37,746 - INFO - [CLOSE] ✓ Complaint closed
+2026-02-23 19:54:37,746 - INFO - [CLOSE]   Category: environmental
+2026-02-23 19:54:37,746 - INFO - [CLOSE]   Outcome: closed
+2026-02-23 19:54:37,746 - INFO - [CLOSE]   Customer satisfaction: requires follow-up
+2026-02-23 19:54:37,746 - INFO - [CLOSE]   Timestamp: 2026-02-23 19:54:37
+2026-02-23 19:54:37,746 - WARNING - [CLOSE] ⚠️  Low effectiveness rating - 30-day follow-up required
+2026-02-23 19:54:37,746 - INFO - [CLOSE] Full workflow path: intake → validate → investigate → resolve → close
+2026-02-23 19:54:37,746 - INFO - [WORKFLOW] Building LangGraph complaint processing workflow
+2026-02-23 19:54:37,758 - INFO - [WORKFLOW] ✓ Workflow compiled successfully
+2026-02-23 19:54:37,761 - INFO - [INTAKE] Processing complaint 5fa9d64a
+2026-02-23 19:54:37,761 - INFO - [INTAKE] Text: Portal opens at random times in Hawkins Lab...
+2026-02-23 19:54:37,761 - INFO - [INTAKE] ✓ Categorized as: portal
+2026-02-23 19:54:37,762 - INFO - [VALIDATE] Validating portal complaint 5fa9d64a
+2026-02-23 19:54:37,762 - INFO - [VALIDATE] ✓ Validation passed: Valid portal complaint with location reference and timing reference
+2026-02-23 19:54:37,762 - INFO - [ROUTER] Complaint 5fa9d64a continuing to investigation
+2026-02-23 19:54:37,762 - INFO - [INVESTIGATE] Investigating portal complaint 5fa9d64a
+2026-02-23 19:54:37,762 - INFO - [INVESTIGATE] ✓ Evidence gathered (702 chars)
+2026-02-23 19:54:37,763 - INFO - [RESOLVE] Applying resolution for portal complaint 5fa9d64a
+2026-02-23 19:54:37,763 - INFO - [RESOLVE] ✓ Resolution applied (effectiveness: high)
+2026-02-23 19:54:37,763 - INFO - [CLOSE] Closing complaint 5fa9d64a
+2026-02-23 19:54:37,763 - INFO - [CLOSE] ✓ Complaint closed
+2026-02-23 19:54:37,763 - INFO - [CLOSE]   Category: portal
+2026-02-23 19:54:37,763 - INFO - [CLOSE]   Outcome: closed
+2026-02-23 19:54:37,763 - INFO - [CLOSE]   Customer satisfaction: satisfied
+2026-02-23 19:54:37,763 - INFO - [CLOSE]   Timestamp: 2026-02-23 19:54:37
+2026-02-23 19:54:37,763 - INFO - [CLOSE] Full workflow path: intake → validate → investigate → resolve → close
+2026-02-23 19:54:37,764 - INFO - [INTAKE] Processing complaint 0b3f21ab
+2026-02-23 19:54:37,764 - INFO - [INTAKE] Text: There's a portal...
+2026-02-23 19:54:37,764 - INFO - [INTAKE] ✓ Categorized as: portal
+2026-02-23 19:54:37,764 - INFO - [VALIDATE] Validating portal complaint 0b3f21ab
+2026-02-23 19:54:37,764 - WARNING - [VALIDATE] ✗ Validation failed: Portal complaint lacks specific location or timing information
+2026-02-23 19:54:37,764 - INFO - [ROUTER] Complaint 0b3f21ab ending: rejected
+2026-02-23 19:54:37,765 - INFO - [INTAKE] Processing complaint 4f03282b
+2026-02-23 19:54:37,765 - INFO - [INTAKE] Text: Random complaint about coffee...
+2026-02-23 19:54:37,765 - INFO - [INTAKE] ✓ Categorized as: other
+2026-02-23 19:54:37,765 - INFO - [VALIDATE] Validating other complaint 4f03282b
+2026-02-23 19:54:37,765 - WARNING - [VALIDATE] ⚠️  OTHER category - escalating for manual review
+2026-02-23 19:54:37,765 - INFO - [ROUTER] Complaint 4f03282b ending: escalated
+2026-02-23 19:54:37,766 - INFO - [INTAKE] Processing complaint 796c1716
+2026-02-23 19:54:37,766 - INFO - [INTAKE] Text: Demogorgons work together sometimes but fight other times...
+2026-02-23 19:54:37,766 - INFO - [INTAKE] ✓ Categorized as: monster
+2026-02-23 19:54:37,766 - INFO - [VALIDATE] Validating monster complaint 796c1716
+2026-02-23 19:54:37,766 - INFO - [VALIDATE] ✓ Validation passed: Valid monster complaint with behavioral description
+2026-02-23 19:54:37,766 - INFO - [ROUTER] Complaint 796c1716 continuing to investigation
+2026-02-23 19:54:37,767 - INFO - [INVESTIGATE] Investigating monster complaint 796c1716
+2026-02-23 19:54:37,767 - INFO - [INVESTIGATE] ✓ Evidence gathered (749 chars)
+2026-02-23 19:54:37,767 - INFO - [RESOLVE] Applying resolution for monster complaint 796c1716
+2026-02-23 19:54:37,767 - INFO - [RESOLVE] ✓ Resolution applied (effectiveness: medium)
+2026-02-23 19:54:37,767 - INFO - [CLOSE] Closing complaint 796c1716
+2026-02-23 19:54:37,767 - INFO - [CLOSE] ✓ Complaint closed
+2026-02-23 19:54:37,767 - INFO - [CLOSE]   Category: monster
+2026-02-23 19:54:37,767 - INFO - [CLOSE]   Outcome: closed
+2026-02-23 19:54:37,767 - INFO - [CLOSE]   Customer satisfaction: cautiously satisfied
+2026-02-23 19:54:37,767 - INFO - [CLOSE]   Timestamp: 2026-02-23 19:54:37
+2026-02-23 19:54:37,767 - INFO - [CLOSE] Full workflow path: intake → validate → investigate → resolve → close
+2026-02-23 19:54:37,768 - INFO - [INTAKE] Processing complaint e42f363e
+2026-02-23 19:54:37,768 - INFO - [INTAKE] Text: El can move objects but can't lift heavy things...
+2026-02-23 19:54:37,768 - INFO - [INTAKE] ✓ Categorized as: psychic
+2026-02-23 19:54:37,769 - INFO - [VALIDATE] Validating psychic complaint e42f363e
+2026-02-23 19:54:37,769 - INFO - [VALIDATE] ✓ Validation passed: Valid psychic complaint with ability and limitation reference
+2026-02-23 19:54:37,769 - INFO - [ROUTER] Complaint e42f363e continuing to investigation
+2026-02-23 19:54:37,770 - INFO - [INVESTIGATE] Investigating psychic complaint e42f363e
+2026-02-23 19:54:37,770 - INFO - [INVESTIGATE] ✓ Evidence gathered (721 chars)
+2026-02-23 19:54:37,770 - INFO - [RESOLVE] Applying resolution for psychic complaint e42f363e
+2026-02-23 19:54:37,770 - INFO - [RESOLVE] ✓ Resolution applied (effectiveness: medium)
+2026-02-23 19:54:37,770 - INFO - [CLOSE] Closing complaint e42f363e
+2026-02-23 19:54:37,770 - INFO - [CLOSE] ✓ Complaint closed
+2026-02-23 19:54:37,770 - INFO - [CLOSE]   Category: psychic
+2026-02-23 19:54:37,770 - INFO - [CLOSE]   Outcome: closed
+2026-02-23 19:54:37,771 - INFO - [CLOSE]   Customer satisfaction: cautiously satisfied
+2026-02-23 19:54:37,771 - INFO - [CLOSE]   Timestamp: 2026-02-23 19:54:37
+2026-02-23 19:54:37,771 - INFO - [CLOSE] Full workflow path: intake → validate → investigate → resolve → close
+2026-02-23 19:54:37,771 - INFO - [INTAKE] Processing complaint d392b160
+2026-02-23 19:54:37,771 - INFO - [INTAKE] Text: Power lines flicker when creatures appear...
+2026-02-23 19:54:37,771 - INFO - [INTAKE] ✓ Categorized as: environmental
+2026-02-23 19:54:37,772 - INFO - [VALIDATE] Validating environmental complaint d392b160
+2026-02-23 19:54:37,772 - INFO - [VALIDATE] ✓ Validation passed: Valid environmental complaint with electrical, physical phenomenon reference
+2026-02-23 19:54:37,772 - INFO - [ROUTER] Complaint d392b160 continuing to investigation
+2026-02-23 19:54:37,772 - INFO - [INVESTIGATE] Investigating environmental complaint d392b160
+2026-02-23 19:54:37,772 - INFO - [INVESTIGATE] ✓ Evidence gathered (775 chars)
+2026-02-23 19:54:37,772 - INFO - [RESOLVE] Applying resolution for environmental complaint d392b160
+2026-02-23 19:54:37,772 - INFO - [RESOLVE] ✓ Resolution applied (effectiveness: low)
+2026-02-23 19:54:37,772 - WARNING - [RESOLVE] ⚠️  Escalation to specialist team required
+2026-02-23 19:54:37,772 - INFO - [CLOSE] Closing complaint d392b160
+2026-02-23 19:54:37,773 - INFO - [CLOSE] ✓ Complaint closed
+2026-02-23 19:54:37,773 - INFO - [CLOSE]   Category: environmental
+2026-02-23 19:54:37,773 - INFO - [CLOSE]   Outcome: closed
+2026-02-23 19:54:37,773 - INFO - [CLOSE]   Customer satisfaction: requires follow-up
+2026-02-23 19:54:37,773 - INFO - [CLOSE]   Timestamp: 2026-02-23 19:54:37
+2026-02-23 19:54:37,773 - WARNING - [CLOSE] ⚠️  Low effectiveness rating - 30-day follow-up required
+2026-02-23 19:54:37,773 - INFO - [CLOSE] Full workflow path: intake → validate → investigate → resolve → close
+2026-02-23 19:57:00,250 - INFO - NormalObjects LangGraph System - Initialization
+2026-02-23 19:57:00,251 - INFO - ============================================================
+2026-02-23 19:57:00,251 - INFO - Duplicate detected! Links to complaint test-001 from 0 days ago
+2026-02-23 19:57:00,251 - INFO - [INTAKE] Processing complaint a5847223
+2026-02-23 19:57:00,251 - INFO - [INTAKE] Text: Portal opens at different times each day...
+2026-02-23 19:57:00,251 - INFO - [INTAKE] ✓ Categorized as: portal
+2026-02-23 19:57:00,251 - INFO - [INTAKE] Processing complaint 8db729e1
+2026-02-23 19:57:00,251 - INFO - [INTAKE] Text: Demogorgons sometimes work together...
+2026-02-23 19:57:00,251 - INFO - [INTAKE] ✓ Categorized as: monster
+2026-02-23 19:57:00,251 - INFO - [INTAKE] Processing complaint b809b0a2
+2026-02-23 19:57:00,251 - INFO - [INTAKE] Text: El can move things with her mind but can't lift rocks...
+2026-02-23 19:57:00,251 - INFO - [INTAKE] ✓ Categorized as: psychic
+2026-02-23 19:57:00,251 - INFO - [INTAKE] Processing complaint 59164f45
+2026-02-23 19:57:00,251 - INFO - [INTAKE] Text: Power lines react strangely with creatures...
+2026-02-23 19:57:00,251 - INFO - [INTAKE] ✓ Categorized as: environmental
+2026-02-23 19:57:00,252 - INFO - [INTAKE] Processing complaint a847cdcf
+2026-02-23 19:57:00,252 - INFO - [INTAKE] Text: This is a random complaint about nothing specific...
+2026-02-23 19:57:00,252 - INFO - [INTAKE] ✓ Categorized as: other
+2026-02-23 19:57:00,252 - INFO - [INTAKE] Processing complaint 845a9ce8
+2026-02-23 19:57:00,252 - INFO - [INTAKE] Text: Portal opens at random times in Hawkins Lab...
+2026-02-23 19:57:00,252 - INFO - [INTAKE] ✓ Categorized as: portal
+2026-02-23 19:57:00,252 - INFO - [INTAKE] Processing complaint efdae07f
+2026-02-23 19:57:00,252 - INFO - [INTAKE] Text: Portal opens at random times in Hawkins Lab...
+2026-02-23 19:57:00,252 - INFO - Duplicate detected! Links to complaint 845a9ce8 from 0 days ago
+2026-02-23 19:57:00,252 - INFO - [INTAKE] ⚠️  Duplicate detected - linked to 845a9ce8
+2026-02-23 19:57:00,252 - INFO - [INTAKE] ✓ Categorized as: portal
+2026-02-23 19:57:00,252 - INFO - [INTAKE] Processing complaint 28a5a3e8
+2026-02-23 19:57:00,252 - INFO - [INTAKE] Text: Portal opens at different times each day in Hawkins Lab...
+2026-02-23 19:57:00,252 - INFO - [INTAKE] ✓ Categorized as: portal
+2026-02-23 19:57:00,252 - INFO - [VALIDATE] Validating portal complaint 28a5a3e8
+2026-02-23 19:57:00,252 - INFO - [VALIDATE] ✓ Validation passed: Valid portal complaint with location reference and timing reference
+2026-02-23 19:57:00,252 - INFO - [INTAKE] Processing complaint a61a0d7f
+2026-02-23 19:57:00,252 - INFO - [INTAKE] Text: Demogorgons sometimes work together and sometimes fight...
+2026-02-23 19:57:00,252 - INFO - [INTAKE] ✓ Categorized as: monster
+2026-02-23 19:57:00,252 - INFO - [VALIDATE] Validating monster complaint a61a0d7f
+2026-02-23 19:57:00,252 - INFO - [VALIDATE] ✓ Validation passed: Valid monster complaint with behavioral description
+2026-02-23 19:57:00,252 - INFO - [INTAKE] Processing complaint 18de8a11
+2026-02-23 19:57:00,252 - INFO - [INTAKE] Text: El can move things with her mind but can't lift heavy rocks...
+2026-02-23 19:57:00,252 - INFO - [INTAKE] ✓ Categorized as: psychic
+2026-02-23 19:57:00,252 - INFO - [VALIDATE] Validating psychic complaint 18de8a11
+2026-02-23 19:57:00,252 - INFO - [VALIDATE] ✓ Validation passed: Valid psychic complaint with ability and limitation reference
+2026-02-23 19:57:00,253 - INFO - [INTAKE] Processing complaint 73fe2e49
+2026-02-23 19:57:00,253 - INFO - [INTAKE] Text: Power lines flicker when creatures are nearby...
+2026-02-23 19:57:00,253 - INFO - [INTAKE] ✓ Categorized as: environmental
+2026-02-23 19:57:00,253 - INFO - [VALIDATE] Validating environmental complaint 73fe2e49
+2026-02-23 19:57:00,253 - INFO - [VALIDATE] ✓ Validation passed: Valid environmental complaint with electrical, physical phenomenon reference
+2026-02-23 19:57:00,253 - INFO - [INTAKE] Processing complaint 99fb0e30
+2026-02-23 19:57:00,253 - INFO - [INTAKE] Text: There's a portal...
+2026-02-23 19:57:00,253 - INFO - [INTAKE] ✓ Categorized as: portal
+2026-02-23 19:57:00,253 - INFO - [VALIDATE] Validating portal complaint 99fb0e30
+2026-02-23 19:57:00,253 - WARNING - [VALIDATE] ✗ Validation failed: Portal complaint lacks specific location or timing information
+2026-02-23 19:57:00,253 - INFO - [INTAKE] Processing complaint 49f73fcf
+2026-02-23 19:57:00,253 - INFO - [INTAKE] Text: I saw a monster...
+2026-02-23 19:57:00,253 - INFO - [INTAKE] ✓ Categorized as: monster
+2026-02-23 19:57:00,253 - INFO - [VALIDATE] Validating monster complaint 49f73fcf
+2026-02-23 19:57:00,253 - WARNING - [VALIDATE] ✗ Validation failed: Monster complaint lacks creature behavior or interaction description
+2026-02-23 19:57:00,253 - INFO - [INTAKE] Processing complaint df86f1e4
+2026-02-23 19:57:00,253 - INFO - [INTAKE] Text: Psychic powers exist...
+2026-02-23 19:57:00,253 - INFO - [INTAKE] ✓ Categorized as: psychic
+2026-02-23 19:57:00,253 - INFO - [VALIDATE] Validating psychic complaint df86f1e4
+2026-02-23 19:57:00,253 - WARNING - [VALIDATE] ✗ Validation failed: Psychic complaint mentions ability but lacks limitation details
+2026-02-23 19:57:00,253 - INFO - [INTAKE] Processing complaint 34192cf7
+2026-02-23 19:57:00,253 - INFO - [INTAKE] Text: This is about something completely random...
+2026-02-23 19:57:00,253 - INFO - [INTAKE] ✓ Categorized as: other
+2026-02-23 19:57:00,253 - INFO - [VALIDATE] Validating other complaint 34192cf7
+2026-02-23 19:57:00,253 - WARNING - [VALIDATE] ⚠️  OTHER category - escalating for manual review
+2026-02-23 19:57:00,254 - INFO - [INTAKE] Processing complaint 082cf7f1
+2026-02-23 19:57:00,254 - INFO - [INTAKE] Text: Random complaint about coffee...
+2026-02-23 19:57:00,254 - INFO - [INTAKE] ✓ Categorized as: other
+2026-02-23 19:57:00,254 - INFO - [VALIDATE] Validating other complaint 082cf7f1
+2026-02-23 19:57:00,254 - WARNING - [VALIDATE] ⚠️  OTHER category - escalating for manual review
+2026-02-23 19:57:00,254 - INFO - [INTAKE] Processing complaint b8c231d7
+2026-02-23 19:57:00,254 - INFO - [INTAKE] Text: Portal timing is weird in the lab...
+2026-02-23 19:57:00,254 - INFO - [INTAKE] ✓ Categorized as: portal
+2026-02-23 19:57:00,254 - INFO - [VALIDATE] Validating portal complaint b8c231d7
+2026-02-23 19:57:00,254 - INFO - [VALIDATE] ✓ Validation passed: Valid portal complaint with location reference
+2026-02-23 19:57:00,254 - INFO - [INTAKE] Processing complaint 8c489bcb
+2026-02-23 19:57:00,254 - INFO - [INTAKE] Text: Portal timing is weird in the lab...
+2026-02-23 19:57:00,254 - INFO - Duplicate detected! Links to complaint b8c231d7 from 0 days ago
+2026-02-23 19:57:00,254 - INFO - [INTAKE] ⚠️  Duplicate detected - linked to b8c231d7
+2026-02-23 19:57:00,254 - INFO - [INTAKE] ✓ Categorized as: portal
+2026-02-23 19:57:00,254 - INFO - [VALIDATE] Validating portal complaint 8c489bcb
+2026-02-23 19:57:00,254 - INFO - [VALIDATE] ⚠️  Duplicate - skipping full validation
+2026-02-23 19:57:00,254 - INFO - [INTAKE] Processing complaint e17e9972
+2026-02-23 19:57:00,254 - INFO - [INTAKE] Text: Portal opens randomly in Hawkins Lab at midnight...
+2026-02-23 19:57:00,254 - INFO - [INTAKE] ✓ Categorized as: portal
+2026-02-23 19:57:00,254 - INFO - [VALIDATE] Validating portal complaint e17e9972
+2026-02-23 19:57:00,254 - INFO - [VALIDATE] ✓ Validation passed: Valid portal complaint with location reference and timing reference
+2026-02-23 19:57:00,254 - INFO - [INVESTIGATE] Investigating portal complaint e17e9972
+2026-02-23 19:57:00,254 - INFO - [INVESTIGATE] ✓ Evidence gathered (702 chars)
+2026-02-23 19:57:00,254 - INFO - [INTAKE] Processing complaint 9c7abf23
+2026-02-23 19:57:00,254 - INFO - [INTAKE] Text: Demogorgons work together when hunting but fight over food...
+2026-02-23 19:57:00,254 - INFO - [INTAKE] ✓ Categorized as: monster
+2026-02-23 19:57:00,255 - INFO - [VALIDATE] Validating monster complaint 9c7abf23
+2026-02-23 19:57:00,255 - INFO - [VALIDATE] ✓ Validation passed: Valid monster complaint with behavioral description
+2026-02-23 19:57:00,255 - INFO - [INVESTIGATE] Investigating monster complaint 9c7abf23
+2026-02-23 19:57:00,255 - INFO - [INVESTIGATE] ✓ Evidence gathered (749 chars)
+2026-02-23 19:57:00,255 - INFO - [INTAKE] Processing complaint 9f53150b
+2026-02-23 19:57:00,255 - INFO - [INTAKE] Text: El can move small objects but can't lift anything heavy...
+2026-02-23 19:57:00,255 - INFO - [INTAKE] ✓ Categorized as: psychic
+2026-02-23 19:57:00,255 - INFO - [VALIDATE] Validating psychic complaint 9f53150b
+2026-02-23 19:57:00,255 - INFO - [VALIDATE] ✓ Validation passed: Valid psychic complaint with ability and limitation reference
+2026-02-23 19:57:00,255 - INFO - [INVESTIGATE] Investigating psychic complaint 9f53150b
+2026-02-23 19:57:00,255 - INFO - [INVESTIGATE] ✓ Evidence gathered (721 chars)
+2026-02-23 19:57:00,255 - INFO - [INTAKE] Processing complaint b376b494
+2026-02-23 19:57:00,255 - INFO - [INTAKE] Text: Power lines flicker whenever creatures appear nearby...
+2026-02-23 19:57:00,255 - INFO - [INTAKE] ✓ Categorized as: environmental
+2026-02-23 19:57:00,255 - INFO - [VALIDATE] Validating environmental complaint b376b494
+2026-02-23 19:57:00,255 - INFO - [VALIDATE] ✓ Validation passed: Valid environmental complaint with electrical, physical phenomenon reference
+2026-02-23 19:57:00,255 - INFO - [INVESTIGATE] Investigating environmental complaint b376b494
+2026-02-23 19:57:00,255 - INFO - [INVESTIGATE] ✓ Evidence gathered (775 chars)
+2026-02-23 19:57:00,255 - INFO - [INTAKE] Processing complaint de8699bb
+2026-02-23 19:57:00,255 - INFO - [INTAKE] Text: There's a portal...
+2026-02-23 19:57:00,255 - INFO - [INTAKE] ✓ Categorized as: portal
+2026-02-23 19:57:00,255 - INFO - [VALIDATE] Validating portal complaint de8699bb
+2026-02-23 19:57:00,255 - WARNING - [VALIDATE] ✗ Validation failed: Portal complaint lacks specific location or timing information
+2026-02-23 19:57:00,255 - INFO - [INVESTIGATE] Investigating portal complaint de8699bb
+2026-02-23 19:57:00,255 - WARNING - [INVESTIGATE] Skipped - complaint failed validation
+2026-02-23 19:57:00,255 - INFO - [INTAKE] Processing complaint ecdec89a
+2026-02-23 19:57:00,255 - INFO - [INTAKE] Text: Portal timing weird in the lab at night...
+2026-02-23 19:57:00,256 - INFO - [INTAKE] ✓ Categorized as: portal
+2026-02-23 19:57:00,256 - INFO - [VALIDATE] Validating portal complaint ecdec89a
+2026-02-23 19:57:00,256 - INFO - [VALIDATE] ✓ Validation passed: Valid portal complaint with location reference and timing reference
+2026-02-23 19:57:00,256 - INFO - [INVESTIGATE] Investigating portal complaint ecdec89a
+2026-02-23 19:57:00,256 - INFO - [INVESTIGATE] ✓ Evidence gathered (702 chars)
+2026-02-23 19:57:00,256 - INFO - [INTAKE] Processing complaint d78662f2
+2026-02-23 19:57:00,256 - INFO - [INTAKE] Text: Portal timing weird in the lab at night...
+2026-02-23 19:57:00,256 - INFO - Duplicate detected! Links to complaint ecdec89a from 0 days ago
+2026-02-23 19:57:00,256 - INFO - [INTAKE] ⚠️  Duplicate detected - linked to ecdec89a
+2026-02-23 19:57:00,256 - INFO - [INTAKE] ✓ Categorized as: portal
+2026-02-23 19:57:00,256 - INFO - [VALIDATE] Validating portal complaint d78662f2
+2026-02-23 19:57:00,256 - INFO - [VALIDATE] ⚠️  Duplicate - skipping full validation
+2026-02-23 19:57:00,256 - INFO - [INVESTIGATE] Investigating portal complaint d78662f2
+2026-02-23 19:57:00,256 - INFO - [INVESTIGATE] Duplicate - referring to original ecdec89a
+2026-02-23 19:57:00,256 - INFO - [INTAKE] Processing complaint 27b3a068
+2026-02-23 19:57:00,256 - INFO - [INTAKE] Text: Storm activity correlates with electrical anomalies...
+2026-02-23 19:57:00,256 - INFO - [INTAKE] ✓ Categorized as: environmental
+2026-02-23 19:57:00,256 - INFO - [VALIDATE] Validating environmental complaint 27b3a068
+2026-02-23 19:57:00,256 - INFO - [VALIDATE] ✓ Validation passed: Valid environmental complaint with electrical, weather reference
+2026-02-23 19:57:00,256 - INFO - [INVESTIGATE] Investigating environmental complaint 27b3a068
+2026-02-23 19:57:00,256 - INFO - [INVESTIGATE] ✓ Evidence gathered (775 chars)
+2026-02-23 19:57:00,256 - INFO - [INTAKE] Processing complaint 8a23fdd9
+2026-02-23 19:57:00,256 - INFO - [INTAKE] Text: Portal opens at different times in Hawkins Lab...
+2026-02-23 19:57:00,256 - INFO - [INTAKE] ✓ Categorized as: portal
+2026-02-23 19:57:00,256 - INFO - [VALIDATE] Validating portal complaint 8a23fdd9
+2026-02-23 19:57:00,256 - INFO - [VALIDATE] ✓ Validation passed: Valid portal complaint with location reference and timing reference
+2026-02-23 19:57:00,256 - INFO - [INVESTIGATE] Investigating portal complaint 8a23fdd9
+2026-02-23 19:57:00,256 - INFO - [INVESTIGATE] ✓ Evidence gathered (702 chars)
+2026-02-23 19:57:00,257 - INFO - [RESOLVE] Applying resolution for portal complaint 8a23fdd9
+2026-02-23 19:57:00,257 - INFO - [RESOLVE] ✓ Resolution applied (effectiveness: high)
+2026-02-23 19:57:00,257 - INFO - [INTAKE] Processing complaint 682fa351
+2026-02-23 19:57:00,257 - INFO - [INTAKE] Text: Demogorgons work together sometimes but fight over food...
+2026-02-23 19:57:00,257 - INFO - [INTAKE] ✓ Categorized as: monster
+2026-02-23 19:57:00,257 - INFO - [VALIDATE] Validating monster complaint 682fa351
+2026-02-23 19:57:00,257 - INFO - [VALIDATE] ✓ Validation passed: Valid monster complaint with behavioral description
+2026-02-23 19:57:00,257 - INFO - [INVESTIGATE] Investigating monster complaint 682fa351
+2026-02-23 19:57:00,257 - INFO - [INVESTIGATE] ✓ Evidence gathered (749 chars)
+2026-02-23 19:57:00,257 - INFO - [RESOLVE] Applying resolution for monster complaint 682fa351
+2026-02-23 19:57:00,257 - INFO - [RESOLVE] ✓ Resolution applied (effectiveness: medium)
+2026-02-23 19:57:00,257 - INFO - [INTAKE] Processing complaint ea4c7f5d
+2026-02-23 19:57:00,257 - INFO - [INTAKE] Text: El can move things but can't lift heavy objects...
+2026-02-23 19:57:00,257 - INFO - [INTAKE] ✓ Categorized as: psychic
+2026-02-23 19:57:00,257 - INFO - [VALIDATE] Validating psychic complaint ea4c7f5d
+2026-02-23 19:57:00,257 - INFO - [VALIDATE] ✓ Validation passed: Valid psychic complaint with ability and limitation reference
+2026-02-23 19:57:00,257 - INFO - [INVESTIGATE] Investigating psychic complaint ea4c7f5d
+2026-02-23 19:57:00,257 - INFO - [INVESTIGATE] ✓ Evidence gathered (721 chars)
+2026-02-23 19:57:00,257 - INFO - [RESOLVE] Applying resolution for psychic complaint ea4c7f5d
+2026-02-23 19:57:00,257 - INFO - [RESOLVE] ✓ Resolution applied (effectiveness: medium)
+2026-02-23 19:57:00,257 - INFO - [INTAKE] Processing complaint 5d0f71a9
+2026-02-23 19:57:00,257 - INFO - [INTAKE] Text: Power lines flicker when creatures appear...
+2026-02-23 19:57:00,257 - INFO - [INTAKE] ✓ Categorized as: environmental
+2026-02-23 19:57:00,257 - INFO - [VALIDATE] Validating environmental complaint 5d0f71a9
+2026-02-23 19:57:00,257 - INFO - [VALIDATE] ✓ Validation passed: Valid environmental complaint with electrical, physical phenomenon reference
+2026-02-23 19:57:00,257 - INFO - [INVESTIGATE] Investigating environmental complaint 5d0f71a9
+2026-02-23 19:57:00,258 - INFO - [INVESTIGATE] ✓ Evidence gathered (775 chars)
+2026-02-23 19:57:00,258 - INFO - [RESOLVE] Applying resolution for environmental complaint 5d0f71a9
+2026-02-23 19:57:00,258 - INFO - [RESOLVE] ✓ Resolution applied (effectiveness: low)
+2026-02-23 19:57:00,258 - WARNING - [RESOLVE] ⚠️  Escalation to specialist team required
+2026-02-23 19:57:00,258 - INFO - [INTAKE] Processing complaint 64204e30
+2026-02-23 19:57:00,258 - INFO - [INTAKE] Text: Portal timing is unpredictable at Hawkins Lab...
+2026-02-23 19:57:00,258 - INFO - [INTAKE] ✓ Categorized as: portal
+2026-02-23 19:57:00,258 - INFO - [VALIDATE] Validating portal complaint 64204e30
+2026-02-23 19:57:00,258 - INFO - [VALIDATE] ✓ Validation passed: Valid portal complaint with location reference and timing reference
+2026-02-23 19:57:00,258 - INFO - [INVESTIGATE] Investigating portal complaint 64204e30
+2026-02-23 19:57:00,258 - INFO - [INVESTIGATE] ✓ Evidence gathered (702 chars)
+2026-02-23 19:57:00,258 - INFO - [RESOLVE] Applying resolution for portal complaint 64204e30
+2026-02-23 19:57:00,258 - INFO - [RESOLVE] ✓ Resolution applied (effectiveness: high)
+2026-02-23 19:57:00,258 - INFO - [CLOSE] Closing complaint 64204e30
+2026-02-23 19:57:00,258 - INFO - [CLOSE] ✓ Complaint closed
+2026-02-23 19:57:00,258 - INFO - [CLOSE]   Category: portal
+2026-02-23 19:57:00,258 - INFO - [CLOSE]   Outcome: closed
+2026-02-23 19:57:00,258 - INFO - [CLOSE]   Customer satisfaction: satisfied
+2026-02-23 19:57:00,258 - INFO - [CLOSE]   Timestamp: 2026-02-23 19:57:00
+2026-02-23 19:57:00,258 - INFO - [CLOSE] Full workflow path: intake → validate → investigate → resolve → close
+2026-02-23 19:57:00,258 - INFO - [INTAKE] Processing complaint ef2718d1
+2026-02-23 19:57:00,258 - INFO - [INTAKE] Text: There's a portal...
+2026-02-23 19:57:00,258 - INFO - [INTAKE] ✓ Categorized as: portal
+2026-02-23 19:57:00,258 - INFO - [VALIDATE] Validating portal complaint ef2718d1
+2026-02-23 19:57:00,258 - WARNING - [VALIDATE] ✗ Validation failed: Portal complaint lacks specific location or timing information
+2026-02-23 19:57:00,258 - INFO - [INVESTIGATE] Investigating portal complaint ef2718d1
+2026-02-23 19:57:00,258 - WARNING - [INVESTIGATE] Skipped - complaint failed validation
+2026-02-23 19:57:00,258 - INFO - [RESOLVE] Applying resolution for portal complaint ef2718d1
+2026-02-23 19:57:00,258 - WARNING - [RESOLVE] Skipped - complaint was rejected
+2026-02-23 19:57:00,259 - INFO - [CLOSE] Closing complaint ef2718d1
+2026-02-23 19:57:00,259 - INFO - [CLOSE] ✓ Complaint closed
+2026-02-23 19:57:00,259 - INFO - [CLOSE]   Category: portal
+2026-02-23 19:57:00,259 - INFO - [CLOSE]   Outcome: closed-rejected
+2026-02-23 19:57:00,259 - INFO - [CLOSE]   Customer satisfaction: N/A (complaint not resolved)
+2026-02-23 19:57:00,259 - INFO - [CLOSE]   Timestamp: 2026-02-23 19:57:00
+2026-02-23 19:57:00,259 - INFO - [CLOSE] Full workflow path: intake → validate → investigate → resolve → close
+2026-02-23 19:57:00,259 - INFO - [INTAKE] Processing complaint 45264aa8
+2026-02-23 19:57:00,259 - INFO - [INTAKE] Text: Random complaint about coffee...
+2026-02-23 19:57:00,259 - INFO - [INTAKE] ✓ Categorized as: other
+2026-02-23 19:57:00,259 - INFO - [VALIDATE] Validating other complaint 45264aa8
+2026-02-23 19:57:00,259 - WARNING - [VALIDATE] ⚠️  OTHER category - escalating for manual review
+2026-02-23 19:57:00,259 - INFO - [INTAKE] Processing complaint 92ff7b79
+2026-02-23 19:57:00,259 - INFO - [INTAKE] Text: Portal behavior is strange in the lab...
+2026-02-23 19:57:00,259 - INFO - [INTAKE] ✓ Categorized as: portal
+2026-02-23 19:57:00,259 - INFO - [VALIDATE] Validating portal complaint 92ff7b79
+2026-02-23 19:57:00,259 - INFO - [VALIDATE] ✓ Validation passed: Valid portal complaint with location reference
+2026-02-23 19:57:00,259 - INFO - [INVESTIGATE] Investigating portal complaint 92ff7b79
+2026-02-23 19:57:00,259 - INFO - [INVESTIGATE] ✓ Evidence gathered (702 chars)
+2026-02-23 19:57:00,259 - INFO - [RESOLVE] Applying resolution for portal complaint 92ff7b79
+2026-02-23 19:57:00,259 - INFO - [RESOLVE] ✓ Resolution applied (effectiveness: high)
+2026-02-23 19:57:00,259 - INFO - [CLOSE] Closing complaint 92ff7b79
+2026-02-23 19:57:00,259 - INFO - [CLOSE] ✓ Complaint closed
+2026-02-23 19:57:00,259 - INFO - [CLOSE]   Category: portal
+2026-02-23 19:57:00,259 - INFO - [CLOSE]   Outcome: closed
+2026-02-23 19:57:00,259 - INFO - [CLOSE]   Customer satisfaction: satisfied
+2026-02-23 19:57:00,259 - INFO - [CLOSE]   Timestamp: 2026-02-23 19:57:00
+2026-02-23 19:57:00,260 - INFO - [CLOSE] Full workflow path: intake → validate → investigate → resolve → close
+2026-02-23 19:57:00,260 - INFO - [INTAKE] Processing complaint 0b9ff14d
+2026-02-23 19:57:00,260 - INFO - [INTAKE] Text: Portal behavior is strange in the lab...
+2026-02-23 19:57:00,260 - INFO - Duplicate detected! Links to complaint 92ff7b79 from 0 days ago
+2026-02-23 19:57:00,260 - INFO - [INTAKE] ⚠️  Duplicate detected - linked to 92ff7b79
+2026-02-23 19:57:00,260 - INFO - [INTAKE] ✓ Categorized as: portal
+2026-02-23 19:57:00,260 - INFO - [VALIDATE] Validating portal complaint 0b9ff14d
+2026-02-23 19:57:00,260 - INFO - [VALIDATE] ⚠️  Duplicate - skipping full validation
+2026-02-23 19:57:00,260 - INFO - [INVESTIGATE] Investigating portal complaint 0b9ff14d
+2026-02-23 19:57:00,260 - INFO - [INVESTIGATE] Duplicate - referring to original 92ff7b79
+2026-02-23 19:57:00,260 - INFO - [RESOLVE] Applying resolution for portal complaint 0b9ff14d
+2026-02-23 19:57:00,260 - INFO - [RESOLVE] Duplicate - referring to original resolution
+2026-02-23 19:57:00,260 - INFO - [CLOSE] Closing complaint 0b9ff14d
+2026-02-23 19:57:00,260 - INFO - [CLOSE] ✓ Complaint closed
+2026-02-23 19:57:00,260 - INFO - [CLOSE]   Category: portal
+2026-02-23 19:57:00,260 - INFO - [CLOSE]   Outcome: closed-duplicate
+2026-02-23 19:57:00,260 - INFO - [CLOSE]   Customer satisfaction: satisfied
+2026-02-23 19:57:00,260 - INFO - [CLOSE]   Timestamp: 2026-02-23 19:57:00
+2026-02-23 19:57:00,260 - INFO - [CLOSE] Full workflow path: intake → validate → investigate → resolve → close
+2026-02-23 19:57:00,260 - INFO - [INTAKE] Processing complaint d82ae377
+2026-02-23 19:57:00,260 - INFO - [INTAKE] Text: Portal opens randomly at different times...
+2026-02-23 19:57:00,260 - INFO - [INTAKE] ✓ Categorized as: portal
+2026-02-23 19:57:00,260 - INFO - [VALIDATE] Validating portal complaint d82ae377
+2026-02-23 19:57:00,260 - INFO - [VALIDATE] ✓ Validation passed: Valid portal complaint with location reference and timing reference
+2026-02-23 19:57:00,260 - INFO - [INVESTIGATE] Investigating portal complaint d82ae377
+2026-02-23 19:57:00,260 - INFO - [INVESTIGATE] ✓ Evidence gathered (702 chars)
+2026-02-23 19:57:00,260 - INFO - [RESOLVE] Applying resolution for portal complaint d82ae377
+2026-02-23 19:57:00,260 - INFO - [RESOLVE] ✓ Resolution applied (effectiveness: high)
+2026-02-23 19:57:00,260 - INFO - [CLOSE] Closing complaint d82ae377
+2026-02-23 19:57:00,260 - INFO - [CLOSE] ✓ Complaint closed
+2026-02-23 19:57:00,261 - INFO - [CLOSE]   Category: portal
+2026-02-23 19:57:00,261 - INFO - [CLOSE]   Outcome: closed
+2026-02-23 19:57:00,261 - INFO - [CLOSE]   Customer satisfaction: satisfied
+2026-02-23 19:57:00,261 - INFO - [CLOSE]   Timestamp: 2026-02-23 19:57:00
+2026-02-23 19:57:00,261 - INFO - [CLOSE] Full workflow path: intake → validate → investigate → resolve → close
+2026-02-23 19:57:00,261 - INFO - [INTAKE] Processing complaint 3f206722
+2026-02-23 19:57:00,261 - INFO - [INTAKE] Text: Electrical problems near power lines...
+2026-02-23 19:57:00,261 - INFO - [INTAKE] ✓ Categorized as: environmental
+2026-02-23 19:57:00,261 - INFO - [VALIDATE] Validating environmental complaint 3f206722
+2026-02-23 19:57:00,261 - INFO - [VALIDATE] ✓ Validation passed: Valid environmental complaint with electrical reference
+2026-02-23 19:57:00,261 - INFO - [INVESTIGATE] Investigating environmental complaint 3f206722
+2026-02-23 19:57:00,261 - INFO - [INVESTIGATE] ✓ Evidence gathered (775 chars)
+2026-02-23 19:57:00,261 - INFO - [RESOLVE] Applying resolution for environmental complaint 3f206722
+2026-02-23 19:57:00,261 - INFO - [RESOLVE] ✓ Resolution applied (effectiveness: low)
+2026-02-23 19:57:00,261 - WARNING - [RESOLVE] ⚠️  Escalation to specialist team required
+2026-02-23 19:57:00,261 - INFO - [CLOSE] Closing complaint 3f206722
+2026-02-23 19:57:00,261 - INFO - [CLOSE] ✓ Complaint closed
+2026-02-23 19:57:00,261 - INFO - [CLOSE]   Category: environmental
+2026-02-23 19:57:00,261 - INFO - [CLOSE]   Outcome: closed
+2026-02-23 19:57:00,261 - INFO - [CLOSE]   Customer satisfaction: requires follow-up
+2026-02-23 19:57:00,261 - INFO - [CLOSE]   Timestamp: 2026-02-23 19:57:00
+2026-02-23 19:57:00,261 - WARNING - [CLOSE] ⚠️  Low effectiveness rating - 30-day follow-up required
+2026-02-23 19:57:00,261 - INFO - [CLOSE] Full workflow path: intake → validate → investigate → resolve → close
+2026-02-23 19:57:00,261 - INFO - [WORKFLOW] Building LangGraph complaint processing workflow
+2026-02-23 19:57:00,273 - INFO - [WORKFLOW] ✓ Workflow compiled successfully
+2026-02-23 19:57:00,275 - INFO - [INTAKE] Processing complaint 5631f31f
+2026-02-23 19:57:00,275 - INFO - [INTAKE] Text: Portal opens at random times in Hawkins Lab...
+2026-02-23 19:57:00,275 - INFO - [INTAKE] ✓ Categorized as: portal
+2026-02-23 19:57:00,275 - INFO - [VALIDATE] Validating portal complaint 5631f31f
+2026-02-23 19:57:00,276 - INFO - [VALIDATE] ✓ Validation passed: Valid portal complaint with location reference and timing reference
+2026-02-23 19:57:00,276 - INFO - [ROUTER] Complaint 5631f31f continuing to investigation
+2026-02-23 19:57:00,276 - INFO - [INVESTIGATE] Investigating portal complaint 5631f31f
+2026-02-23 19:57:00,276 - INFO - [INVESTIGATE] ✓ Evidence gathered (702 chars)
+2026-02-23 19:57:00,276 - INFO - [RESOLVE] Applying resolution for portal complaint 5631f31f
+2026-02-23 19:57:00,276 - INFO - [RESOLVE] ✓ Resolution applied (effectiveness: high)
+2026-02-23 19:57:00,277 - INFO - [CLOSE] Closing complaint 5631f31f
+2026-02-23 19:57:00,277 - INFO - [CLOSE] ✓ Complaint closed
+2026-02-23 19:57:00,277 - INFO - [CLOSE]   Category: portal
+2026-02-23 19:57:00,277 - INFO - [CLOSE]   Outcome: closed
+2026-02-23 19:57:00,277 - INFO - [CLOSE]   Customer satisfaction: satisfied
+2026-02-23 19:57:00,277 - INFO - [CLOSE]   Timestamp: 2026-02-23 19:57:00
+2026-02-23 19:57:00,277 - INFO - [CLOSE] Full workflow path: intake → validate → investigate → resolve → close
+2026-02-23 19:57:00,277 - INFO - [INTAKE] Processing complaint 0daac40e
+2026-02-23 19:57:00,278 - INFO - [INTAKE] Text: There's a portal...
+2026-02-23 19:57:00,278 - INFO - [INTAKE] ✓ Categorized as: portal
+2026-02-23 19:57:00,278 - INFO - [VALIDATE] Validating portal complaint 0daac40e
+2026-02-23 19:57:00,278 - WARNING - [VALIDATE] ✗ Validation failed: Portal complaint lacks specific location or timing information
+2026-02-23 19:57:00,278 - INFO - [ROUTER] Complaint 0daac40e ending: rejected
+2026-02-23 19:57:00,279 - INFO - [INTAKE] Processing complaint c78c3c2e
+2026-02-23 19:57:00,279 - INFO - [INTAKE] Text: Random complaint about coffee...
+2026-02-23 19:57:00,279 - INFO - [INTAKE] ✓ Categorized as: other
+2026-02-23 19:57:00,279 - INFO - [VALIDATE] Validating other complaint c78c3c2e
+2026-02-23 19:57:00,279 - WARNING - [VALIDATE] ⚠️  OTHER category - escalating for manual review
+2026-02-23 19:57:00,279 - INFO - [ROUTER] Complaint c78c3c2e ending: escalated
+2026-02-23 19:57:00,280 - INFO - [INTAKE] Processing complaint c58f2441
+2026-02-23 19:57:00,280 - INFO - [INTAKE] Text: Demogorgons work together sometimes but fight other times...
+2026-02-23 19:57:00,280 - INFO - [INTAKE] ✓ Categorized as: monster
+2026-02-23 19:57:00,280 - INFO - [VALIDATE] Validating monster complaint c58f2441
+2026-02-23 19:57:00,280 - INFO - [VALIDATE] ✓ Validation passed: Valid monster complaint with behavioral description
+2026-02-23 19:57:00,280 - INFO - [ROUTER] Complaint c58f2441 continuing to investigation
+2026-02-23 19:57:00,280 - INFO - [INVESTIGATE] Investigating monster complaint c58f2441
+2026-02-23 19:57:00,280 - INFO - [INVESTIGATE] ✓ Evidence gathered (749 chars)
+2026-02-23 19:57:00,280 - INFO - [RESOLVE] Applying resolution for monster complaint c58f2441
+2026-02-23 19:57:00,281 - INFO - [RESOLVE] ✓ Resolution applied (effectiveness: medium)
+2026-02-23 19:57:00,281 - INFO - [CLOSE] Closing complaint c58f2441
+2026-02-23 19:57:00,281 - INFO - [CLOSE] ✓ Complaint closed
+2026-02-23 19:57:00,281 - INFO - [CLOSE]   Category: monster
+2026-02-23 19:57:00,281 - INFO - [CLOSE]   Outcome: closed
+2026-02-23 19:57:00,281 - INFO - [CLOSE]   Customer satisfaction: cautiously satisfied
+2026-02-23 19:57:00,281 - INFO - [CLOSE]   Timestamp: 2026-02-23 19:57:00
+2026-02-23 19:57:00,281 - INFO - [CLOSE] Full workflow path: intake → validate → investigate → resolve → close
+2026-02-23 19:57:00,281 - INFO - [INTAKE] Processing complaint 893f583b
+2026-02-23 19:57:00,282 - INFO - [INTAKE] Text: El can move objects but can't lift heavy things...
+2026-02-23 19:57:00,282 - INFO - [INTAKE] ✓ Categorized as: psychic
+2026-02-23 19:57:00,282 - INFO - [VALIDATE] Validating psychic complaint 893f583b
+2026-02-23 19:57:00,282 - INFO - [VALIDATE] ✓ Validation passed: Valid psychic complaint with ability and limitation reference
+2026-02-23 19:57:00,282 - INFO - [ROUTER] Complaint 893f583b continuing to investigation
+2026-02-23 19:57:00,282 - INFO - [INVESTIGATE] Investigating psychic complaint 893f583b
+2026-02-23 19:57:00,283 - INFO - [INVESTIGATE] ✓ Evidence gathered (721 chars)
+2026-02-23 19:57:00,283 - INFO - [RESOLVE] Applying resolution for psychic complaint 893f583b
+2026-02-23 19:57:00,283 - INFO - [RESOLVE] ✓ Resolution applied (effectiveness: medium)
+2026-02-23 19:57:00,283 - INFO - [CLOSE] Closing complaint 893f583b
+2026-02-23 19:57:00,283 - INFO - [CLOSE] ✓ Complaint closed
+2026-02-23 19:57:00,283 - INFO - [CLOSE]   Category: psychic
+2026-02-23 19:57:00,283 - INFO - [CLOSE]   Outcome: closed
+2026-02-23 19:57:00,283 - INFO - [CLOSE]   Customer satisfaction: cautiously satisfied
+2026-02-23 19:57:00,283 - INFO - [CLOSE]   Timestamp: 2026-02-23 19:57:00
+2026-02-23 19:57:00,283 - INFO - [CLOSE] Full workflow path: intake → validate → investigate → resolve → close
+2026-02-23 19:57:00,284 - INFO - [INTAKE] Processing complaint 5bd6449c
+2026-02-23 19:57:00,284 - INFO - [INTAKE] Text: Power lines flicker when creatures appear...
+2026-02-23 19:57:00,284 - INFO - [INTAKE] ✓ Categorized as: environmental
+2026-02-23 19:57:00,284 - INFO - [VALIDATE] Validating environmental complaint 5bd6449c
+2026-02-23 19:57:00,284 - INFO - [VALIDATE] ✓ Validation passed: Valid environmental complaint with electrical, physical phenomenon reference
+2026-02-23 19:57:00,284 - INFO - [ROUTER] Complaint 5bd6449c continuing to investigation
+2026-02-23 19:57:00,285 - INFO - [INVESTIGATE] Investigating environmental complaint 5bd6449c
+2026-02-23 19:57:00,285 - INFO - [INVESTIGATE] ✓ Evidence gathered (775 chars)
+2026-02-23 19:57:00,285 - INFO - [RESOLVE] Applying resolution for environmental complaint 5bd6449c
+2026-02-23 19:57:00,285 - INFO - [RESOLVE] ✓ Resolution applied (effectiveness: low)
+2026-02-23 19:57:00,285 - WARNING - [RESOLVE] ⚠️  Escalation to specialist team required
+2026-02-23 19:57:00,285 - INFO - [CLOSE] Closing complaint 5bd6449c
+2026-02-23 19:57:00,285 - INFO - [CLOSE] ✓ Complaint closed
+2026-02-23 19:57:00,285 - INFO - [CLOSE]   Category: environmental
+2026-02-23 19:57:00,285 - INFO - [CLOSE]   Outcome: closed
+2026-02-23 19:57:00,285 - INFO - [CLOSE]   Customer satisfaction: requires follow-up
+2026-02-23 19:57:00,286 - INFO - [CLOSE]   Timestamp: 2026-02-23 19:57:00
+2026-02-23 19:57:00,286 - WARNING - [CLOSE] ⚠️  Low effectiveness rating - 30-day follow-up required
+2026-02-23 19:57:00,286 - INFO - [CLOSE] Full workflow path: intake → validate → investigate → resolve → close
+2026-02-23 19:57:00,286 - INFO - [WORKFLOW] Building LangGraph complaint processing workflow
+2026-02-23 19:57:00,295 - INFO - [WORKFLOW] ✓ Workflow compiled successfully
+2026-02-23 19:57:00,295 - INFO - 
+======================================================================
+2026-02-23 19:57:00,295 - INFO - TEST COMPLAINT #1: The Downside Up portal opens at different times each day. Ho...
+2026-02-23 19:57:00,295 - INFO - ======================================================================
+2026-02-23 19:57:00,296 - INFO - [INTAKE] Processing complaint 66e0063d
+2026-02-23 19:57:00,296 - INFO - [INTAKE] Text: The Downside Up portal opens at different times each day. How do I predict when?...
+2026-02-23 19:57:00,296 - INFO - [INTAKE] ✓ Categorized as: portal
+2026-02-23 19:57:00,296 - INFO - [VALIDATE] Validating portal complaint 66e0063d
+2026-02-23 19:57:00,296 - INFO - [VALIDATE] ✓ Validation passed: Valid portal complaint with location reference and timing reference
+2026-02-23 19:57:00,297 - INFO - [ROUTER] Complaint 66e0063d continuing to investigation
+2026-02-23 19:57:00,297 - INFO - [INVESTIGATE] Investigating portal complaint 66e0063d
+2026-02-23 19:57:00,297 - INFO - [INVESTIGATE] ✓ Evidence gathered (702 chars)
+2026-02-23 19:57:00,297 - INFO - [RESOLVE] Applying resolution for portal complaint 66e0063d
+2026-02-23 19:57:00,297 - INFO - [RESOLVE] ✓ Resolution applied (effectiveness: high)
+2026-02-23 19:57:00,297 - INFO - [CLOSE] Closing complaint 66e0063d
+2026-02-23 19:57:00,297 - INFO - [CLOSE] ✓ Complaint closed
+2026-02-23 19:57:00,298 - INFO - [CLOSE]   Category: portal
+2026-02-23 19:57:00,298 - INFO - [CLOSE]   Outcome: closed
+2026-02-23 19:57:00,298 - INFO - [CLOSE]   Customer satisfaction: satisfied
+2026-02-23 19:57:00,298 - INFO - [CLOSE]   Timestamp: 2026-02-23 19:57:00
+2026-02-23 19:57:00,298 - INFO - [CLOSE] Full workflow path: intake → validate → investigate → resolve → close
+2026-02-23 19:57:00,298 - INFO - 
+======================================================================
+2026-02-23 19:57:00,298 - INFO - TEST COMPLAINT #2: Demogorgons sometimes work together and sometimes fight. Wha...
+2026-02-23 19:57:00,298 - INFO - ======================================================================
+2026-02-23 19:57:00,298 - INFO - [INTAKE] Processing complaint 3994d1e1
+2026-02-23 19:57:00,298 - INFO - [INTAKE] Text: Demogorgons sometimes work together and sometimes fight. What's their deal?...
+2026-02-23 19:57:00,299 - INFO - [INTAKE] ✓ Categorized as: monster
+2026-02-23 19:57:00,299 - INFO - [VALIDATE] Validating monster complaint 3994d1e1
+2026-02-23 19:57:00,299 - INFO - [VALIDATE] ✓ Validation passed: Valid monster complaint with behavioral description
+2026-02-23 19:57:00,299 - INFO - [ROUTER] Complaint 3994d1e1 continuing to investigation
+2026-02-23 19:57:00,299 - INFO - [INVESTIGATE] Investigating monster complaint 3994d1e1
+2026-02-23 19:57:00,299 - INFO - [INVESTIGATE] ✓ Evidence gathered (749 chars)
+2026-02-23 19:57:00,299 - INFO - [RESOLVE] Applying resolution for monster complaint 3994d1e1
+2026-02-23 19:57:00,299 - INFO - [RESOLVE] ✓ Resolution applied (effectiveness: medium)
+2026-02-23 19:57:00,300 - INFO - [CLOSE] Closing complaint 3994d1e1
+2026-02-23 19:57:00,300 - INFO - [CLOSE] ✓ Complaint closed
+2026-02-23 19:57:00,300 - INFO - [CLOSE]   Category: monster
+2026-02-23 19:57:00,300 - INFO - [CLOSE]   Outcome: closed
+2026-02-23 19:57:00,300 - INFO - [CLOSE]   Customer satisfaction: cautiously satisfied
+2026-02-23 19:57:00,300 - INFO - [CLOSE]   Timestamp: 2026-02-23 19:57:00
+2026-02-23 19:57:00,300 - INFO - [CLOSE] Full workflow path: intake → validate → investigate → resolve → close
+2026-02-23 19:57:00,300 - INFO - 
+======================================================================
+2026-02-23 19:57:00,301 - INFO - TEST COMPLAINT #3: El can move things with her mind but can't lift heavy rocks....
+2026-02-23 19:57:00,301 - INFO - ======================================================================
+2026-02-23 19:57:00,301 - INFO - [INTAKE] Processing complaint 5bfa98c5
+2026-02-23 19:57:00,301 - INFO - [INTAKE] Text: El can move things with her mind but can't lift heavy rocks. Why?...
+2026-02-23 19:57:00,302 - INFO - [INTAKE] ✓ Categorized as: psychic
+2026-02-23 19:57:00,302 - INFO - [VALIDATE] Validating psychic complaint 5bfa98c5
+2026-02-23 19:57:00,302 - INFO - [VALIDATE] ✓ Validation passed: Valid psychic complaint with ability and limitation reference
+2026-02-23 19:57:00,302 - INFO - [ROUTER] Complaint 5bfa98c5 continuing to investigation
+2026-02-23 19:57:00,302 - INFO - [INVESTIGATE] Investigating psychic complaint 5bfa98c5
+2026-02-23 19:57:00,302 - INFO - [INVESTIGATE] ✓ Evidence gathered (721 chars)
+2026-02-23 19:57:00,303 - INFO - [RESOLVE] Applying resolution for psychic complaint 5bfa98c5
+2026-02-23 19:57:00,303 - INFO - [RESOLVE] ✓ Resolution applied (effectiveness: medium)
+2026-02-23 19:57:00,303 - INFO - [CLOSE] Closing complaint 5bfa98c5
+2026-02-23 19:57:00,303 - INFO - [CLOSE] ✓ Complaint closed
+2026-02-23 19:57:00,303 - INFO - [CLOSE]   Category: psychic
+2026-02-23 19:57:00,303 - INFO - [CLOSE]   Outcome: closed
+2026-02-23 19:57:00,303 - INFO - [CLOSE]   Customer satisfaction: cautiously satisfied
+2026-02-23 19:57:00,303 - INFO - [CLOSE]   Timestamp: 2026-02-23 19:57:00
+2026-02-23 19:57:00,303 - INFO - [CLOSE] Full workflow path: intake → validate → investigate → resolve → close
+2026-02-23 19:57:00,303 - INFO - 
+======================================================================
+2026-02-23 19:57:00,303 - INFO - TEST COMPLAINT #4: Why do creatures and power lines react so strangely together...
+2026-02-23 19:57:00,303 - INFO - ======================================================================
+2026-02-23 19:57:00,304 - INFO - [INTAKE] Processing complaint 1a1adb81
+2026-02-23 19:57:00,304 - INFO - [INTAKE] Text: Why do creatures and power lines react so strangely together?...
+2026-02-23 19:57:00,304 - INFO - [INTAKE] ✓ Categorized as: environmental
+2026-02-23 19:57:00,304 - INFO - [VALIDATE] Validating environmental complaint 1a1adb81
+2026-02-23 19:57:00,304 - INFO - [VALIDATE] ✓ Validation passed: Valid environmental complaint with electrical, physical phenomenon reference
+2026-02-23 19:57:00,304 - INFO - [ROUTER] Complaint 1a1adb81 continuing to investigation
+2026-02-23 19:57:00,304 - INFO - [INVESTIGATE] Investigating environmental complaint 1a1adb81
+2026-02-23 19:57:00,305 - INFO - [INVESTIGATE] ✓ Evidence gathered (775 chars)
+2026-02-23 19:57:00,305 - INFO - [RESOLVE] Applying resolution for environmental complaint 1a1adb81
+2026-02-23 19:57:00,305 - INFO - [RESOLVE] ✓ Resolution applied (effectiveness: low)
+2026-02-23 19:57:00,305 - WARNING - [RESOLVE] ⚠️  Escalation to specialist team required
+2026-02-23 19:57:00,305 - INFO - [CLOSE] Closing complaint 1a1adb81
+2026-02-23 19:57:00,305 - INFO - [CLOSE] ✓ Complaint closed
+2026-02-23 19:57:00,305 - INFO - [CLOSE]   Category: environmental
+2026-02-23 19:57:00,305 - INFO - [CLOSE]   Outcome: closed
+2026-02-23 19:57:00,305 - INFO - [CLOSE]   Customer satisfaction: requires follow-up
+2026-02-23 19:57:00,305 - INFO - [CLOSE]   Timestamp: 2026-02-23 19:57:00
+2026-02-23 19:57:00,305 - WARNING - [CLOSE] ⚠️  Low effectiveness rating - 30-day follow-up required
+2026-02-23 19:57:00,305 - INFO - [CLOSE] Full workflow path: intake → validate → investigate → resolve → close
+2026-02-23 19:57:00,305 - INFO - 
+======================================================================
+2026-02-23 19:57:00,306 - INFO - TEST COMPLAINT #5: This is not a valid complaint about something random...
+2026-02-23 19:57:00,306 - INFO - ======================================================================
+2026-02-23 19:57:00,306 - INFO - [INTAKE] Processing complaint 040bc46b
+2026-02-23 19:57:00,306 - INFO - [INTAKE] Text: This is not a valid complaint about something random...
+2026-02-23 19:57:00,306 - INFO - [INTAKE] ✓ Categorized as: other
+2026-02-23 19:57:00,306 - INFO - [VALIDATE] Validating other complaint 040bc46b
+2026-02-23 19:57:00,306 - WARNING - [VALIDATE] ⚠️  OTHER category - escalating for manual review
+2026-02-23 19:57:00,306 - INFO - [ROUTER] Complaint 040bc46b ending: escalated
+2026-02-23 19:57:00,307 - INFO - 
+======================================================================
+2026-02-23 19:57:00,307 - INFO - DUPLICATE TEST - FIRST SUBMISSION
+2026-02-23 19:57:00,307 - INFO - ======================================================================
+2026-02-23 19:57:00,307 - INFO - [INTAKE] Processing complaint 7ca4d6ea
+2026-02-23 19:57:00,307 - INFO - [INTAKE] Text: Portal opens at random times in Hawkins Lab....
+2026-02-23 19:57:00,307 - INFO - [INTAKE] ✓ Categorized as: portal
+2026-02-23 19:57:00,307 - INFO - [VALIDATE] Validating portal complaint 7ca4d6ea
+2026-02-23 19:57:00,307 - INFO - [VALIDATE] ✓ Validation passed: Valid portal complaint with location reference and timing reference
+2026-02-23 19:57:00,308 - INFO - [ROUTER] Complaint 7ca4d6ea continuing to investigation
+2026-02-23 19:57:00,308 - INFO - [INVESTIGATE] Investigating portal complaint 7ca4d6ea
+2026-02-23 19:57:00,308 - INFO - [INVESTIGATE] ✓ Evidence gathered (702 chars)
+2026-02-23 19:57:00,308 - INFO - [RESOLVE] Applying resolution for portal complaint 7ca4d6ea
+2026-02-23 19:57:00,308 - INFO - [RESOLVE] ✓ Resolution applied (effectiveness: high)
+2026-02-23 19:57:00,308 - INFO - [CLOSE] Closing complaint 7ca4d6ea
+2026-02-23 19:57:00,308 - INFO - [CLOSE] ✓ Complaint closed
+2026-02-23 19:57:00,308 - INFO - [CLOSE]   Category: portal
+2026-02-23 19:57:00,308 - INFO - [CLOSE]   Outcome: closed
+2026-02-23 19:57:00,308 - INFO - [CLOSE]   Customer satisfaction: satisfied
+2026-02-23 19:57:00,308 - INFO - [CLOSE]   Timestamp: 2026-02-23 19:57:00
+2026-02-23 19:57:00,309 - INFO - [CLOSE] Full workflow path: intake → validate → investigate → resolve → close
+2026-02-23 19:57:00,309 - INFO - 
+======================================================================
+2026-02-23 19:57:00,309 - INFO - DUPLICATE TEST - SECOND SUBMISSION (SHOULD BE DETECTED)
+2026-02-23 19:57:00,309 - INFO - ======================================================================
+2026-02-23 19:57:00,309 - INFO - [INTAKE] Processing complaint 7e5e394e
+2026-02-23 19:57:00,309 - INFO - [INTAKE] Text: Portal opens at random times in Hawkins Lab....
+2026-02-23 19:57:00,309 - INFO - Duplicate detected! Links to complaint 7ca4d6ea from 0 days ago
+2026-02-23 19:57:00,309 - INFO - [INTAKE] ⚠️  Duplicate detected - linked to 7ca4d6ea
+2026-02-23 19:57:00,309 - INFO - [INTAKE] ✓ Categorized as: portal
+2026-02-23 19:57:00,310 - INFO - [VALIDATE] Validating portal complaint 7e5e394e
+2026-02-23 19:57:00,310 - INFO - [VALIDATE] ⚠️  Duplicate - skipping full validation
+2026-02-23 19:57:00,310 - INFO - [ROUTER] Complaint 7e5e394e continuing to investigation
+2026-02-23 19:57:00,310 - INFO - [INVESTIGATE] Investigating portal complaint 7e5e394e
+2026-02-23 19:57:00,310 - INFO - [INVESTIGATE] Duplicate - referring to original 7ca4d6ea
+2026-02-23 19:57:00,310 - INFO - [RESOLVE] Applying resolution for portal complaint 7e5e394e
+2026-02-23 19:57:00,310 - INFO - [RESOLVE] Duplicate - referring to original resolution
+2026-02-23 19:57:00,310 - INFO - [CLOSE] Closing complaint 7e5e394e
+2026-02-23 19:57:00,311 - INFO - [CLOSE] ✓ Complaint closed
+2026-02-23 19:57:00,311 - INFO - [CLOSE]   Category: portal
+2026-02-23 19:57:00,311 - INFO - [CLOSE]   Outcome: closed-duplicate
+2026-02-23 19:57:00,311 - INFO - [CLOSE]   Customer satisfaction: satisfied
+2026-02-23 19:57:00,311 - INFO - [CLOSE]   Timestamp: 2026-02-23 19:57:00
+2026-02-23 19:57:00,311 - INFO - [CLOSE] Full workflow path: intake → validate → investigate → resolve → close
+2026-02-23 20:12:50,634 - INFO - [WORKFLOW] Building LangGraph complaint processing workflow
+2026-02-23 20:12:50,646 - INFO - [WORKFLOW] ✓ Workflow compiled successfully

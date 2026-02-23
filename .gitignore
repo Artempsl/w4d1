@@ -13,10 +13,6 @@ __pycache__/
 *.so
 .Python
 
-# Logs
-complaints.log
-*.log
-
 # IDEs
 .vscode/
 .idea/
